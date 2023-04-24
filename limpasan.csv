@@ -1,0 +1,1711 @@
+IDPompa,Wilayah,GunaLahan,LuasLahan,PersentaseLokal,FaktorPengali,IntensitasHujan,DebitLimpasanExisting
+PA001,Kaserangan,Zona Pengelolaan Persampahan,"1,690","0,004457276353","0,500","53,31","0,2242917478"
+PA002,Kaserangan,Zona Badan Air,"50,868","0,1341655341","0,500","53,31","2,053352202"
+PA003,Kaserangan,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","53,31",0
+PA004,Kaserangan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA005,Kaserangan,Zona Perdagangan dan Jasa,"1,139","0,003005264781","0,950","53,31","0,2215985034"
+PA006,Kaserangan,Zona Perkantoran,"2,123","0,005598646484","0,950","53,31","0,4588311121"
+PA007,Kaserangan,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA008,Kaserangan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA009,Kaserangan,Zona Pertanian,"82,050","0,2164087528","0,560","53,31","6,059804723"
+PA010,Kaserangan,Zona Peruntukan Lainnya,"0,000",0,"0,600","53,31",0
+PA011,Kaserangan,Zona Ruang Terbuka Hijau,"197,072","0,519778926","0,600","53,31","11,51370331"
+PA012,Kaserangan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA013,Kaserangan,Zona Sarana Pelayanan Umum,"0,333","0,0008780640124","0,950","53,31","0,05326300992"
+PA014,Kaserangan,Zona Perumahan,"25,906","0,06832783633","0,950","53,31","6,667263021"
+PA015,Kaserangan,Zona Badan Jalan,"17,964","0,04737969914","0,700","53,31","3,88470617"
+PA016,Beberan,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA017,Beberan,Zona Badan Air,"0,122","0,0004829788916","0,500","53,31","0,004129357028"
+PA018,Beberan,Zona Kawasan Peruntukan Industri,"17,249","0,06838924069","0,800","53,31","4,374847065"
+PA019,Beberan,Zona Pembangkitan Tenaga Listrik,"17,249","0,06838924069","0,800","53,31","3,512506945"
+PA020,Beberan,Zona Perdagangan dan Jasa,"0,213","0,0008462239578","0,950","53,31","0,04588937234"
+PA021,Beberan,Zona Perkantoran,"0,000",0,"0,950","53,31",0
+PA022,Beberan,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA023,Beberan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA024,Beberan,Zona Pertanian,"137,405","0,5447890418","0,560","53,31","10,69067515"
+PA025,Beberan,Zona Peruntukan Lainnya,"14,531","0,05761331353","0,600","53,31","1,431201894"
+PA026,Beberan,Zona Ruang Terbuka Hijau,"32,840","0,1302078037","0,600","53,31","1,773372557"
+PA027,Beberan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA028,Beberan,Zona Sarana Pelayanan Umum,"0,696","0,002761238313","0,950","53,31","0,1192815058"
+PA029,Beberan,Zona Perumahan,"24,309","0,09638271147","0,950","53,31","5,749880783"
+PA030,Beberan,Zona Badan Jalan,"7,601","0,03013820703","0,700","53,31","1,744275995"
+PA031,Citerep,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA032,Citerep,Zona Badan Air,"0,000",0,"0,500","53,31",0
+PA033,Citerep,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","53,31",0
+PA034,Citerep,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA035,Citerep,Zona Perdagangan dan Jasa,"9,282","0,064379576","0,950","53,31","2,095460665"
+PA036,Citerep,Zona Perkantoran,"1,577","0,01093907235","0,950","53,31","0,4271890527"
+PA037,Citerep,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA038,Citerep,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA039,Citerep,Zona Pertanian,"50,846","0,3526793869","0,560","53,31","4,096953497"
+PA040,Citerep,Zona Peruntukan Lainnya,"0,642","0,004452081445","0,600","53,31","0,06098454048"
+PA041,Citerep,Zona Ruang Terbuka Hijau,"26,791","0,1858283575","0,600","53,31","1,692973461"
+PA042,Citerep,Zona Ruang Terbuka Non Hijau,"0,022","0,0001545785437","0,700","53,31","0,002735472146"
+PA043,Citerep,Zona Sarana Pelayanan Umum,"3,926","0,0272302252","0,950","53,31","0,8535812129"
+PA044,Citerep,Zona Perumahan,"43,304","0,300370378","0,950","53,31","13,79781562"
+PA045,Citerep,Zona Badan Jalan,"7,780","0,05396634403","0,700","53,31","1,861873323"
+PA046,Gosara,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA047,Gosara,Zona Badan Air,"1,847","0,008323334726","0,500","53,31","0,0641216908"
+PA048,Gosara,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","53,31",0
+PA049,Gosara,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA050,Gosara,Zona Perdagangan dan Jasa,"0,359","0,001618528423","0,950","53,31","0,06332241672"
+PA051,Gosara,Zona Perkantoran,"0,032","0,0001451044741","0,950","53,31","0,006633983861"
+PA052,Gosara,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA053,Gosara,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA054,Gosara,Zona Pertanian,"189,588","0,854134278","0,560","53,31","15,03421397"
+PA055,Gosara,Zona Peruntukan Lainnya,"0,000",0,"0,600","53,31",0
+PA056,Gosara,Zona Ruang Terbuka Hijau,"13,459","0,06063430833","0,600","53,31","0,918502402"
+PA057,Gosara,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA058,Gosara,Zona Sarana Pelayanan Umum,"0,383","0,001727451383","0,950","53,31","0,07595471015"
+PA059,Gosara,Zona Perumahan,"13,921","0,06271899042","0,950","53,31","3,62795301"
+PA060,Gosara,Zona Badan Jalan,"2,375","0,01069800425","0,700","53,31","0,514886928"
+PA061,Bumijaya,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA062,Bumijaya,Zona Badan Air,"0,507","0,003908480033","0,500","53,31","0,01742152442"
+PA063,Bumijaya,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","53,31",0
+PA064,Bumijaya,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA065,Bumijaya,Zona Perdagangan dan Jasa,"0,602","0,004643745393","0,950","53,31","0,1039769723"
+PA066,Bumijaya,Zona Perkantoran,"0,602","0,004643745393","0,950","53,31","0,1398210457"
+PA067,Bumijaya,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA068,Bumijaya,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA069,Bumijaya,Zona Pertanian,"98,745","0,7615114696","0,560","53,31","7,822829851"
+PA070,Bumijaya,Zona Peruntukan Lainnya,"0,000",0,"0,600","53,31",0
+PA071,Bumijaya,Zona Ruang Terbuka Hijau,"8,626","0,06652457919","0,600","53,31","0,4134242212"
+PA072,Bumijaya,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA073,Bumijaya,Zona Sarana Pelayanan Umum,"0,421","0,003249346827","0,950","53,31","0,07230634809"
+PA074,Bumijaya,Zona Perumahan,"18,559","0,1431281818","0,950","53,31","4,635864173"
+PA075,Bumijaya,Zona Badan Jalan,"1,607","0,01239045179","0,700","53,31","0,3747889866"
+PA076,Pulo,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA077,Pulo,Zona Badan Air,"1,686","0,003036235902","0,500","53,31","0,0520146345"
+PA078,Pulo,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","53,31",0
+PA079,Pulo,Zona Pembangkitan Tenaga Listrik,"1,686","0,003036235902","0,800","53,31","0,3840466635"
+PA080,Pulo,Zona Perdagangan dan Jasa,"0,286","0,0005157619217","0,950","53,31","0,04947020313"
+PA081,Pulo,Zona Perkantoran,"0,077","0,0001389566045","0,950","53,31","0,01852380962"
+PA082,Pulo,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA083,Pulo,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA084,Pulo,Zona Pertanian,"414,571","0,7464553943","0,560","53,31","32,76470254"
+PA085,Pulo,Zona Peruntukan Lainnya,"1,000","0,00180001799","0,600","53,31","0,09871003662"
+PA086,Pulo,Zona Ruang Terbuka Hijau,"61,785","0,1112464108","0,600","53,31","3,171501373"
+PA087,Pulo,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA088,Pulo,Zona Sarana Pelayanan Umum,"4,124","0,007424967686","0,950","53,31","0,6934598013"
+PA089,Pulo,Zona Perumahan,"61,708","0,111108954","0,950","53,31","16,27055144"
+PA090,Pulo,Zona Badan Jalan,"8,462","0,01523706484","0,700","53,31","2,076344868"
+PA091,Singamerta,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA092,Singamerta,Zona Badan Air,"0,000",0,"0,500","53,31",0
+PA093,Singamerta,Zona Kawasan Peruntukan Industri,"0,162","0,001084016651","0,800","53,31","0,03579679615"
+PA094,Singamerta,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA095,Singamerta,Zona Perdagangan dan Jasa,"1,418","0,009491087505","0,950","53,31","0,2632518246"
+PA096,Singamerta,Zona Perkantoran,"0,368","0,002461833005","0,950","53,31","0,08018471174"
+PA097,Singamerta,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA098,Singamerta,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA099,Singamerta,Zona Pertanian,"106,519","0,7128472275","0,560","53,31","8,266164475"
+PA100,Singamerta,Zona Peruntukan Lainnya,"4,904","0,03281652565","0,600","53,31","0,5159663361"
+PA1000,Kadikaran,Zona Peruntukan Lainnya,"1,031","0,00317817151","0,600","54,78","0,1205526755"
+PA1001,Kadikaran,Zona Ruang Terbuka Hijau,"11,448","0,03527486795","0,600","54,78","0,63436798"
+PA1002,Kadikaran,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA1003,Kadikaran,Zona Sarana Pelayanan Umum,"0,425","0,001309752361","0,950","54,78","0,0956959921"
+PA1004,Kadikaran,Zona Perumahan,"23,152","0,07133603703","0,950","54,78","8,016236599"
+PA1005,Kadikaran,Zona Badan Jalan,"5,531","0,01704162492","0,700","54,78","1,640250431"
+PA1006,Kepandean,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA1007,Kepandean,Zona Badan Air,"0,000",0,"0,500","54,78",0
+PA1008,Kepandean,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","54,78",0
+PA1009,Kepandean,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA101,Singamerta,Zona Ruang Terbuka Hijau,"21,230","0,1420763879","0,600","53,31","1,297116408"
+PA1010,Kepandean,Zona Perdagangan dan Jasa,"0,000",0,"0,950","54,78",0
+PA1011,Kepandean,Zona Perkantoran,"0,148","0,002292126759","0,950","54,78","0,03733110915"
+PA1012,Kepandean,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA1013,Kepandean,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA1014,Kepandean,Zona Pertanian,"118,808","1,836195358","0,560","54,78","11,64363228"
+PA1015,Kepandean,Zona Peruntukan Lainnya,"0,336","0,005190788548","0,600","54,78","0,04099814733"
+PA1016,Kepandean,Zona Ruang Terbuka Hijau,"16,253","0,2511920397","0,600","54,78","0,9434634035"
+PA1017,Kepandean,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA1018,Kepandean,Zona Sarana Pelayanan Umum,"1,277","0,01974350206","0,950","54,78","0,381896012"
+PA1019,Kepandean,Zona Perumahan,"25,728","0,3976234417","0,950","54,78","9,235826121"
+PA102,Singamerta,Zona Ruang Terbuka Non Hijau,"0,562","0,0037607479","0,700","53,31","0,07619129576"
+PA1020,Kepandean,Zona Badan Jalan,"3,353","0,0518133438","0,700","54,78","0,8730256769"
+PA1021,Pamong,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA1022,Pamong,Zona Badan Air,"0,000",0,"0,500","54,78",0
+PA1023,Pamong,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","54,78",0
+PA1024,Pamong,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA1025,Pamong,Zona Perdagangan dan Jasa,"0,097","0,002554077681","0,950","54,78","0,0217429783"
+PA1026,Pamong,Zona Perkantoran,"0,025","0,0006639277315","0,950","54,78","0,007097796447"
+PA1027,Pamong,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA1028,Pamong,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA1029,Pamong,Zona Pertanian,"192,685","5,056750599","0,560","54,78","20,23610395"
+PA103,Singamerta,Zona Sarana Pelayanan Umum,"1,836","0,0122899345","0,950","53,31","0,3850321698"
+PA1030,Pamong,Zona Peruntukan Lainnya,"0,450","0,01182261092","0,600","54,78","0,05822370213"
+PA1031,Pamong,Zona Ruang Terbuka Hijau,"16,810","0,4411443282","0,600","54,78","1,235930819"
+PA1032,Pamong,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA1033,Pamong,Zona Sarana Pelayanan Umum,"0,604","0,01585316218","0,950","54,78","0,159360277"
+PA1034,Pamong,Zona Perumahan,"19,340","0,5075532508","0,950","54,78","6,436618754"
+PA1035,Pamong,Zona Badan Jalan,"4,380","0,1149496476","0,700","54,78","1,424841708"
+PA1036,Penggalang,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA1037,Penggalang,Zona Badan Air,"0,000",0,"0,500","54,78",0
+PA1038,Penggalang,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","54,78",0
+PA1039,Penggalang,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA104,Singamerta,Zona Perumahan,"29,387","0,1966653638","0,950","53,31","9,157098709"
+PA1040,Penggalang,Zona Perdagangan dan Jasa,"0,000",0,"0,950","54,78",0
+PA1041,Penggalang,Zona Perkantoran,"0,020","0,0001265755525","0,950","54,78","0,005527773712"
+PA1042,Penggalang,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA1043,Penggalang,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA1044,Penggalang,Zona Pertanian,"269,230","1,728004333","0,560","54,78","26,93793374"
+PA1045,Penggalang,Zona Peruntukan Lainnya,"1,586","0,01018029735","0,600","54,78","0,2059127347"
+PA1046,Penggalang,Zona Ruang Terbuka Hijau,"15,620","0,1002563382","0,600","54,78","1,018018984"
+PA1047,Penggalang,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA1048,Penggalang,Zona Sarana Pelayanan Umum,"0,410","0,002634230715","0,950","54,78","0,105572762"
+PA1049,Penggalang,Zona Perumahan,"26,119","0,1676425623","0,950","54,78","9,933646607"
+PA105,Singamerta,Zona Badan Jalan,"8,626","0,05772808949","0,700","53,31","1,962603288"
+PA1050,Penggalang,Zona Badan Jalan,"4,512","0,02895664509","0,700","54,78","1,188252946"
+PA1051,Pelawad,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA1052,Pelawad,Zona Badan Air,"0,000",0,"0,500","54,78",0
+PA1053,Pelawad,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","54,78",0
+PA1054,Pelawad,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA1055,Pelawad,Zona Perdagangan dan Jasa,"1,477","0,003953173364","0,950","54,78","0,3176815298"
+PA1056,Pelawad,Zona Perkantoran,"0,072","0,0001930587807","0,950","54,78","0,02126794747"
+PA1057,Pelawad,Zona Perkebunan Rakyat,"1,829","0,004893143704","0,800","54,78","0,1668375177"
+PA1058,Pelawad,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA1059,Pelawad,Zona Pertanian,"6,038","0,01615705869","0,560","54,78","0,6588937156"
+PA106,Ciruas,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA1060,Pelawad,Zona Peruntukan Lainnya,"0,000",0,"0,600","54,78",0
+PA1061,Pelawad,Zona Ruang Terbuka Hijau,"8,803","0,02355648507","0,600","54,78","0,5123917404"
+PA1062,Pelawad,Zona Ruang Terbuka Non Hijau,"0,077","0,0002056079644","0,700","54,78","0,01016757332"
+PA1063,Pelawad,Zona Sarana Pelayanan Umum,"0,323","0,0008654026006","0,950","54,78","0,07473871442"
+PA1064,Pelawad,Zona Perumahan,"24,942","0,06674670259","0,950","54,78","9,340122579"
+PA1065,Pelawad,Zona Badan Jalan,"1,547","0,004140845514","0,700","54,78","0,4214613897"
+PA1066,Ranjeng,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA1067,Ranjeng,Zona Badan Air,"0,686","0,002440765013","0,500","54,78","0,02634138093"
+PA1068,Ranjeng,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","54,78",0
+PA1069,Ranjeng,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA107,Ciruas,Zona Badan Air,"0,000",0,"0,500","53,31",0
+PA1070,Ranjeng,Zona Perdagangan dan Jasa,"1,284","0,004566005498","0,950","54,78","0,3418904973"
+PA1071,Ranjeng,Zona Perkantoran,"0,000",0,"0,950","54,78",0
+PA1072,Ranjeng,Zona Perkebunan Rakyat,"0,441","0,001568568483","0,800","54,78","0,04108525769"
+PA1073,Ranjeng,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA1074,Ranjeng,Zona Pertanian,"48,845","0,1736873536","0,560","54,78","5,021466149"
+PA1075,Ranjeng,Zona Peruntukan Lainnya,"0,000",0,"0,600","54,78",0
+PA1076,Ranjeng,Zona Ruang Terbuka Hijau,"17,671","0,06283607774","0,600","54,78","1,124619786"
+PA1077,Ranjeng,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA1078,Ranjeng,Zona Sarana Pelayanan Umum,"1,200","0,004265584405","0,950","54,78","0,2857529114"
+PA1079,Ranjeng,Zona Perumahan,"70,041","0,2490547749","0,950","54,78","25,23018334"
+PA108,Ciruas,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","53,31",0
+PA1080,Ranjeng,Zona Badan Jalan,"8,217","0,02921972669","0,700","54,78","2,549435312"
+PA1081,Cisait,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA1082,Cisait,Zona Badan Air,"0,000",0,"0,500","54,78",0
+PA1083,Cisait,Zona Kawasan Peruntukan Industri,"8,922","0,03073872914","0,800","54,78","3,086758919"
+PA1084,Cisait,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA1085,Cisait,Zona Perdagangan dan Jasa,"0,830","0,002860621045","0,950","54,78","0,1810605849"
+PA1086,Cisait,Zona Perkantoran,"0,078","0,0002679787923","0,950","54,78","0,02570022579"
+PA1087,Cisait,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA1088,Cisait,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA1089,Cisait,Zona Pertanian,"183,579","0,6325003793","0,560","54,78","16,70499065"
+PA109,Ciruas,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA1090,Cisait,Zona Peruntukan Lainnya,"0,015","0,00005319894481","0,600","54,78","0,00169457398"
+PA1091,Cisait,Zona Ruang Terbuka Hijau,"72,828","0,2509224267","0,600","54,78","4,135170687"
+PA1092,Cisait,Zona Ruang Terbuka Non Hijau,"0,230","0,0007916111421","0,700","54,78","0,03120021539"
+PA1093,Cisait,Zona Sarana Pelayanan Umum,"3,446","0,01187293025","0,950","54,78","0,8676244642"
+PA1094,Cisait,Zona Perumahan,"74,733","0,2574832844","0,950","54,78","24,97004792"
+PA1095,Cisait,Zona Badan Jalan,"13,329","0,04592391965","0,700","54,78","3,932645027"
+PA1096,Sentul,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA1097,Sentul,Zona Badan Air,"0,726","0,001726773417","0,500","54,78","0,02391917171"
+PA1098,Sentul,Zona Kawasan Peruntukan Industri,"24,694","0,05877200745","0,800","54,78","8,489337022"
+PA1099,Sentul,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA110,Ciruas,Zona Perdagangan dan Jasa,"0,109","0,0006682659307","0,950","53,31","0,01873506449"
+PA1100,Sentul,Zona Perdagangan dan Jasa,"2,648","0,006303073905","0,950","54,78","0,5246649518"
+PA1101,Sentul,Zona Perkantoran,"0,090","0,000213241835","0,950","54,78","0,02232518481"
+PA1102,Sentul,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA1103,Sentul,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA1104,Sentul,Zona Pertanian,"133,419","0,3175413733","0,560","54,78","11,76948469"
+PA1105,Sentul,Zona Peruntukan Lainnya,"0,000",0,"0,600","54,78",0
+PA1106,Sentul,Zona Ruang Terbuka Hijau,"53,185","0,1265815539","0,600","54,78","3,919855367"
+PA1107,Sentul,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA1108,Sentul,Zona Sarana Pelayanan Umum,"1,053","0,002507329147","0,950","54,78","0,2629227769"
+PA1109,Sentul,Zona Perumahan,"70,261","0,1672235906","0,950","54,78","22,45764961"
+PA111,Ciruas,Zona Perkantoran,"0,039","0,0002407740664","0,950","53,31","0,008738722116"
+PA1110,Sentul,Zona Badan Jalan,"20,397","0,04854655867","0,700","54,78","6,103001016"
+PA1111,Kendayakan,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA1112,Kendayakan,Zona Badan Air,"0,049","0,0001350366604","0,500","54,78","0,00239077553"
+PA1113,Kendayakan,Zona Kawasan Peruntukan Industri,"0,084","0,0002326838389","0,800","54,78","0,02423919941"
+PA1114,Kendayakan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA1115,Kendayakan,Zona Perdagangan dan Jasa,"5,879","0,01627734934","0,950","54,78","1,744393455"
+PA1116,Kendayakan,Zona Perkantoran,"0,544","0,001507375561","0,950","54,78","0,1428834649"
+PA1117,Kendayakan,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA1118,Kendayakan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA1119,Kendayakan,Zona Pertanian,"50,616","0,140141524","0,560","54,78","5,283870592"
+PA112,Ciruas,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA1120,Kendayakan,Zona Peruntukan Lainnya,"0,000",0,"0,600","54,78",0
+PA1121,Kendayakan,Zona Ruang Terbuka Hijau,"116,832","0,3234727703","0,600","54,78","8,686067884"
+PA1122,Kendayakan,Zona Ruang Terbuka Non Hijau,"0,889","0,002461425061","0,700","54,78","0,1294391306"
+PA1123,Kendayakan,Zona Sarana Pelayanan Umum,"2,686","0,007437783213","0,950","54,78","0,577062504"
+PA1124,Kendayakan,Zona Perumahan,"88,895","0,2461227157","0,950","54,78","27,22910268"
+PA1125,Kendayakan,Zona Badan Jalan,"13,089","0,03623995467","0,700","54,78","4,134908584"
+PA1126,Kragilan,Zona Pengelolaan Persampahan,"0,083","0,0003449209049","0,500","54,78","0,0136108581"
+PA1127,Kragilan,Zona Badan Air,"10,728","0,044702187","0,500","54,78","0,4432287203"
+PA1128,Kragilan,Zona Kawasan Peruntukan Industri,"188,415","0,785104784","0,800","54,78","56,3302177"
+PA1129,Kragilan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA113,Ciruas,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA1130,Kragilan,Zona Perdagangan dan Jasa,"13,741","0,05725517779","0,950","54,78","3,269611572"
+PA1131,Kragilan,Zona Perkantoran,"1,177","0,004903152148","0,950","54,78","0,2792696893"
+PA1132,Kragilan,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA1133,Kragilan,Zona Pertahanan dan Keamanan,"0,645","0,002687532238","0,700","54,78","0,09248300428"
+PA1134,Kragilan,Zona Pertanian,"9,496","0,03956930951","0,560","54,78","0,9105939369"
+PA1135,Kragilan,Zona Peruntukan Lainnya,"0,000",0,"0,600","54,78",0
+PA1136,Kragilan,Zona Ruang Terbuka Hijau,"75,200","0,3133484254","0,600","54,78","5,261725531"
+PA1137,Kragilan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA1138,Kragilan,Zona Sarana Pelayanan Umum,"2,373","0,009890089493","0,950","54,78","0,4772362461"
+PA1139,Kragilan,Zona Perumahan,"45,197","0,188331534","0,950","54,78","14,37896161"
+PA114,Ciruas,Zona Pertanian,"63,861","0,3903848226","0,560","53,31","5,199152591"
+PA1140,Kragilan,Zona Badan Jalan,"20,059","0,08358314538","0,700","54,78","6,113009597"
+PA1141,Kaserangan,Zona Pengelolaan Persampahan,"1,690","0,004457276353","0,500","57,23","0,274433948"
+PA1142,Kaserangan,Zona Badan Air,"50,868","0,1341655341","0,500","57,23","2,038714128"
+PA1143,Kaserangan,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","57,23",0
+PA1144,Kaserangan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA1145,Kaserangan,Zona Perdagangan dan Jasa,"1,139","0,003005264781","0,950","57,23","0,3224335345"
+PA1146,Kaserangan,Zona Perkantoran,"2,123","0,005598646484","0,950","57,23","0,6793142793"
+PA1147,Kaserangan,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1148,Kaserangan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1149,Kaserangan,Zona Pertanian,"82,050","0,2164087528","0,560","57,23","9,341256925"
+PA115,Ciruas,Zona Peruntukan Lainnya,"0,000",0,"0,600","53,31",0
+PA1150,Kaserangan,Zona Peruntukan Lainnya,"0,000",0,"0,600","57,23",0
+PA1151,Kaserangan,Zona Ruang Terbuka Hijau,"197,072","0,519778926","0,600","57,23","12,19018758"
+PA1152,Kaserangan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1153,Kaserangan,Zona Sarana Pelayanan Umum,"0,333","0,0008780640124","0,950","57,23","0,07688042464"
+PA1154,Kaserangan,Zona Perumahan,"25,906","0,06832783633","0,950","57,23","10,54161939"
+PA1155,Kaserangan,Zona Badan Jalan,"17,964","0,04737969914","0,700","57,23","6,057804935"
+PA1156,Beberan,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1157,Beberan,Zona Badan Air,"0,122","0,0004829788916","0,500","57,23","0,004360227644"
+PA1158,Beberan,Zona Kawasan Peruntukan Industri,"17,249","0,06838924069","0,800","57,23","7,307526066"
+PA1159,Beberan,Zona Pembangkitan Tenaga Listrik,"17,249","0,06838924069","0,800","57,23","5,468484377"
+PA116,Ciruas,Zona Ruang Terbuka Hijau,"1,718","0,01050220877","0,600","53,31","0,1129147286"
+PA1160,Beberan,Zona Perdagangan dan Jasa,"0,213","0,0008462239578","0,950","57,23","0,05689037002"
+PA1161,Beberan,Zona Perkantoran,"0,000",0,"0,950","57,23",0
+PA1162,Beberan,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1163,Beberan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1164,Beberan,Zona Pertanian,"137,405","0,5447890418","0,560","57,23","13,02473062"
+PA1165,Beberan,Zona Peruntukan Lainnya,"14,531","0,05761331353","0,600","57,23","2,347470732"
+PA1166,Beberan,Zona Ruang Terbuka Hijau,"32,840","0,1302078037","0,600","57,23","2,3532211"
+PA1167,Beberan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1168,Beberan,Zona Sarana Pelayanan Umum,"0,696","0,002761238313","0,950","57,23","0,1664662829"
+PA1169,Beberan,Zona Perumahan,"24,309","0,09638271147","0,950","57,23","8,695474312"
+PA117,Ciruas,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA1170,Beberan,Zona Badan Jalan,"7,601","0,03013820703","0,700","57,23","2,513440485"
+PA1171,Citerep,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1172,Citerep,Zona Badan Air,"0,000",0,"0,500","57,23",0
+PA1173,Citerep,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","57,23",0
+PA1174,Citerep,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA1175,Citerep,Zona Perdagangan dan Jasa,"9,282","0,064379576","0,950","57,23","3,033459123"
+PA1176,Citerep,Zona Perkantoran,"1,577","0,01093907235","0,950","57,23","0,5861383871"
+PA1177,Citerep,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1178,Citerep,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1179,Citerep,Zona Pertanian,"50,846","0,3526793869","0,560","57,23","5,18469066"
+PA118,Ciruas,Zona Sarana Pelayanan Umum,"0,205","0,001256113334","0,950","53,31","0,03849635143"
+PA1180,Citerep,Zona Peruntukan Lainnya,"0,642","0,004452081445","0,600","57,23","0,08423025987"
+PA1181,Citerep,Zona Ruang Terbuka Hijau,"26,791","0,1858283575","0,600","57,23","1,895989162"
+PA1182,Citerep,Zona Ruang Terbuka Non Hijau,"0,022","0,0001545785437","0,700","57,23","0,003141413441"
+PA1183,Citerep,Zona Sarana Pelayanan Umum,"3,926","0,0272302252","0,950","57,23","1,143439514"
+PA1184,Citerep,Zona Perumahan,"43,304","0,300370378","0,950","57,23","15,7381509"
+PA1185,Citerep,Zona Badan Jalan,"7,780","0,05396634403","0,700","57,23","2,531612688"
+PA1186,Gosara,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1187,Gosara,Zona Badan Air,"1,847","0,008323334726","0,500","57,23","0,1005773608"
+PA1188,Gosara,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","57,23",0
+PA1189,Gosara,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA119,Ciruas,Zona Perumahan,"13,951","0,08528490952","0,950","53,31","3,735676446"
+PA1190,Gosara,Zona Perdagangan dan Jasa,"0,359","0,001618528423","0,950","57,23","0,07977363689"
+PA1191,Gosara,Zona Perkantoran,"0,032","0,0001451044741","0,950","57,23","0,01154556602"
+PA1192,Gosara,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1193,Gosara,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1194,Gosara,Zona Pertanian,"189,588","0,854134278","0,560","57,23","21,78267032"
+PA1195,Gosara,Zona Peruntukan Lainnya,"0,000",0,"0,600","57,23",0
+PA1196,Gosara,Zona Ruang Terbuka Hijau,"13,459","0,06063430833","0,600","57,23","1,097847308"
+PA1197,Gosara,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1198,Gosara,Zona Sarana Pelayanan Umum,"0,383","0,001727451383","0,950","57,23","0,0899186878"
+PA1199,Gosara,Zona Perumahan,"13,921","0,06271899042","0,950","57,23","5,039972295"
+PA120,Ciruas,Zona Badan Jalan,"1,165","0,007122939481","0,700","53,31","0,2637949806"
+PA1200,Gosara,Zona Badan Jalan,"2,375","0,01069800425","0,700","57,23","0,7632249799"
+PA1201,Bumijaya,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1202,Bumijaya,Zona Badan Air,"0,507","0,003908480033","0,500","57,23","0,0218498329"
+PA1203,Bumijaya,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","57,23",0
+PA1204,Bumijaya,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA1205,Bumijaya,Zona Perdagangan dan Jasa,"0,602","0,004643745393","0,950","57,23","0,1598221465"
+PA1206,Bumijaya,Zona Perkantoran,"0,602","0,004643745393","0,950","57,23","0,1736336199"
+PA1207,Bumijaya,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1208,Bumijaya,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1209,Bumijaya,Zona Pertanian,"98,745","0,7615114696","0,560","57,23","10,68570842"
+PA121,Cigelam,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA1210,Bumijaya,Zona Peruntukan Lainnya,"0,000",0,"0,600","57,23",0
+PA1211,Bumijaya,Zona Ruang Terbuka Hijau,"8,626","0,06652457919","0,600","57,23","0,5529731865"
+PA1212,Bumijaya,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1213,Bumijaya,Zona Sarana Pelayanan Umum,"0,421","0,003249346827","0,950","57,23","0,1043407584"
+PA1214,Bumijaya,Zona Perumahan,"18,559","0,1431281818","0,950","57,23","6,130411477"
+PA1215,Bumijaya,Zona Badan Jalan,"1,607","0,01239045179","0,700","57,23","0,5002912635"
+PA1216,Pulo,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1217,Pulo,Zona Badan Air,"1,686","0,003036235902","0,500","57,23","0,07898963103"
+PA1218,Pulo,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","57,23",0
+PA1219,Pulo,Zona Pembangkitan Tenaga Listrik,"1,686","0,003036235902","0,800","57,23","0,3956664191"
+PA122,Cigelam,Zona Badan Air,"0,000",0,"0,500","53,31",0
+PA1220,Pulo,Zona Perdagangan dan Jasa,"0,286","0,0005157619217","0,950","57,23","0,0730277398"
+PA1221,Pulo,Zona Perkantoran,"0,077","0,0001389566045","0,950","57,23","0,02824282315"
+PA1222,Pulo,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1223,Pulo,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1224,Pulo,Zona Pertanian,"414,571","0,7464553943","0,560","57,23","49,72376871"
+PA1225,Pulo,Zona Peruntukan Lainnya,"1,000","0,00180001799","0,600","57,23","0,1306933209"
+PA1226,Pulo,Zona Ruang Terbuka Hijau,"61,785","0,1112464108","0,600","57,23","5,28737278"
+PA1227,Pulo,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1228,Pulo,Zona Sarana Pelayanan Umum,"4,124","0,007424967686","0,950","57,23","0,8637969138"
+PA1229,Pulo,Zona Perumahan,"61,708","0,111108954","0,950","57,23","22,63122021"
+PA123,Cigelam,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","53,31",0
+PA1230,Pulo,Zona Badan Jalan,"8,462","0,01523706484","0,700","57,23","2,664894787"
+PA1231,Singamerta,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1232,Singamerta,Zona Badan Air,"0,000",0,"0,500","57,23",0
+PA1233,Singamerta,Zona Kawasan Peruntukan Industri,"0,162","0,001084016651","0,800","57,23","0,03923406149"
+PA1234,Singamerta,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA1235,Singamerta,Zona Perdagangan dan Jasa,"1,418","0,009491087505","0,950","57,23","0,4218989942"
+PA1236,Singamerta,Zona Perkantoran,"0,368","0,002461833005","0,950","57,23","0,1285359912"
+PA1237,Singamerta,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1238,Singamerta,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1239,Singamerta,Zona Pertanian,"106,519","0,7128472275","0,560","57,23","11,4119219"
+PA124,Cigelam,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA1240,Singamerta,Zona Peruntukan Lainnya,"4,904","0,03281652565","0,600","57,23","0,711282276"
+PA1241,Singamerta,Zona Ruang Terbuka Hijau,"21,230","0,1420763879","0,600","57,23","1,509965179"
+PA1242,Singamerta,Zona Ruang Terbuka Non Hijau,"0,562","0,0037607479","0,700","57,23","0,08776169886"
+PA1243,Singamerta,Zona Sarana Pelayanan Umum,"1,836","0,0122899345","0,950","57,23","0,5737750929"
+PA1244,Singamerta,Zona Perumahan,"29,387","0,1966653638","0,950","57,23","10,36653399"
+PA1245,Singamerta,Zona Badan Jalan,"8,626","0,05772808949","0,700","57,23","3,078535771"
+PA1246,Ciruas,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1247,Ciruas,Zona Badan Air,"0,000",0,"0,500","57,23",0
+PA1248,Ciruas,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","57,23",0
+PA1249,Ciruas,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA125,Cigelam,Zona Perdagangan dan Jasa,"0,000",0,"0,950","53,31",0
+PA1250,Ciruas,Zona Perdagangan dan Jasa,"0,109","0,0006682659307","0,950","57,23","0,02698796931"
+PA1251,Ciruas,Zona Perkantoran,"0,039","0,0002407740664","0,950","57,23","0,0138076051"
+PA1252,Ciruas,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1253,Ciruas,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1254,Ciruas,Zona Pertanian,"63,861","0,3903848226","0,560","57,23","6,77994384"
+PA1255,Ciruas,Zona Peruntukan Lainnya,"0,000",0,"0,600","57,23",0
+PA1256,Ciruas,Zona Ruang Terbuka Hijau,"1,718","0,01050220877","0,600","57,23","0,142508141"
+PA1257,Ciruas,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1258,Ciruas,Zona Sarana Pelayanan Umum,"0,205","0,001256113334","0,950","57,23","0,04682239743"
+PA1259,Ciruas,Zona Perumahan,"13,951","0,08528490952","0,950","57,23","5,030432503"
+PA126,Cigelam,Zona Perkantoran,"0,000",0,"0,950","53,31",0
+PA1260,Ciruas,Zona Badan Jalan,"1,165","0,007122939481","0,700","57,23","0,322270523"
+PA1261,Cigelam,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1262,Cigelam,Zona Badan Air,"0,000",0,"0,500","57,23",0
+PA1263,Cigelam,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","57,23",0
+PA1264,Cigelam,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA1265,Cigelam,Zona Perdagangan dan Jasa,"0,000",0,"0,950","57,23",0
+PA1266,Cigelam,Zona Perkantoran,"0,000",0,"0,950","57,23",0
+PA1267,Cigelam,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1268,Cigelam,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1269,Cigelam,Zona Pertanian,"445,100","1,842711646","0,560","57,23","47,81961112"
+PA127,Cigelam,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA1270,Cigelam,Zona Peruntukan Lainnya,"0,730","0,00302126748","0,600","57,23","0,1004348963"
+PA1271,Cigelam,Zona Ruang Terbuka Hijau,"13,401","0,0554813037","0,600","57,23","1,115652754"
+PA1272,Cigelam,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1273,Cigelam,Zona Sarana Pelayanan Umum,"1,071","0,004432852928","0,950","57,23","0,241515475"
+PA1274,Cigelam,Zona Perumahan,"27,334","0,1131628551","0,950","57,23","9,964933828"
+PA1275,Cigelam,Zona Badan Jalan,"16,584","0,06865919414","0,700","57,23","4,862574017"
+PA1276,Kadikaran,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1277,Kadikaran,Zona Badan Air,"0,265","0,0008168549976","0,500","57,23","0,01342445043"
+PA1278,Kadikaran,Zona Kawasan Peruntukan Industri,"0,145","0,0004464398104","0,800","57,23","0,04963310163"
+PA1279,Kadikaran,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA128,Cigelam,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA1280,Kadikaran,Zona Perdagangan dan Jasa,"0,496","0,001528379484","0,950","57,23","0,1200935066"
+PA1281,Kadikaran,Zona Perkantoran,"0,000",0,"0,950","57,23",0
+PA1282,Kadikaran,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1283,Kadikaran,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1284,Kadikaran,Zona Pertanian,"122,225","0,3766017428","0,560","57,23","13,1571177"
+PA1285,Kadikaran,Zona Peruntukan Lainnya,"1,031","0,00317817151","0,600","57,23","0,1291896668"
+PA1286,Kadikaran,Zona Ruang Terbuka Hijau,"11,448","0,03527486795","0,600","57,23","0,9465638066"
+PA1287,Kadikaran,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1288,Kadikaran,Zona Sarana Pelayanan Umum,"0,425","0,001309752361","0,950","57,23","0,08917040725"
+PA1289,Kadikaran,Zona Perumahan,"23,152","0,07133603703","0,950","57,23","9,344480558"
+PA129,Cigelam,Zona Pertanian,"445,100","1,842711646","0,560","53,31","36,16113777"
+PA1290,Kadikaran,Zona Badan Jalan,"5,531","0,01704162492","0,700","57,23","1,726847496"
+PA1291,Kepandean,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1292,Kepandean,Zona Badan Air,"0,000",0,"0,500","57,23",0
+PA1293,Kepandean,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","57,23",0
+PA1294,Kepandean,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA1295,Kepandean,Zona Perdagangan dan Jasa,"0,000",0,"0,950","57,23",0
+PA1296,Kepandean,Zona Perkantoran,"0,148","0,002292126759","0,950","57,23","0,04412037538"
+PA1297,Kepandean,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1298,Kepandean,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1299,Kepandean,Zona Pertanian,"118,808","1,836195358","0,560","57,23","12,56543288"
+PA130,Cigelam,Zona Peruntukan Lainnya,"0,730","0,00302126748","0,600","53,31","0,0723938761"
+PA1300,Kepandean,Zona Peruntukan Lainnya,"0,336","0,005190788548","0,600","57,23","0,04326588567"
+PA1301,Kepandean,Zona Ruang Terbuka Hijau,"16,253","0,2511920397","0,600","57,23","1,073654298"
+PA1302,Kepandean,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1303,Kepandean,Zona Sarana Pelayanan Umum,"1,277","0,01974350206","0,950","57,23","0,3300994293"
+PA1304,Kepandean,Zona Perumahan,"25,728","0,3976234417","0,950","57,23","11,29116858"
+PA1305,Kepandean,Zona Badan Jalan,"3,353","0,0518133438","0,700","57,23","1,074222909"
+PA1306,Pamong,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1307,Pamong,Zona Badan Air,"0,000",0,"0,500","57,23",0
+PA1308,Pamong,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","57,23",0
+PA1309,Pamong,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA131,Cigelam,Zona Ruang Terbuka Hijau,"13,401","0,0554813037","0,600","53,31","0,7885865889"
+PA1310,Pamong,Zona Perdagangan dan Jasa,"0,097","0,002554077681","0,950","57,23","0,02518270038"
+PA1311,Pamong,Zona Perkantoran,"0,025","0,0006639277315","0,950","57,23","0,007751314156"
+PA1312,Pamong,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1313,Pamong,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1314,Pamong,Zona Pertanian,"192,685","5,056750599","0,560","57,23","19,21271844"
+PA1315,Pamong,Zona Peruntukan Lainnya,"0,450","0,01182261092","0,600","57,23","0,06294014974"
+PA1316,Pamong,Zona Ruang Terbuka Hijau,"16,810","0,4411443282","0,600","57,23","1,378397701"
+PA1317,Pamong,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1318,Pamong,Zona Sarana Pelayanan Umum,"0,604","0,01585316218","0,950","57,23","0,2172762005"
+PA1319,Pamong,Zona Perumahan,"19,340","0,5075532508","0,950","57,23","6,972751835"
+PA132,Cigelam,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA1320,Pamong,Zona Badan Jalan,"4,380","0,1149496476","0,700","57,23","1,447628728"
+PA1321,Penggalang,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1322,Penggalang,Zona Badan Air,"0,000",0,"0,500","57,23",0
+PA1323,Penggalang,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","57,23",0
+PA1324,Penggalang,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA1325,Penggalang,Zona Perdagangan dan Jasa,"0,000",0,"0,950","57,23",0
+PA1326,Penggalang,Zona Perkantoran,"0,020","0,0001265755525","0,950","57,23","0,005909071769"
+PA1327,Penggalang,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1328,Penggalang,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1329,Penggalang,Zona Pertanian,"269,230","1,728004333","0,560","57,23","28,63343066"
+PA133,Cigelam,Zona Sarana Pelayanan Umum,"1,071","0,004432852928","0,950","53,31","0,184484133"
+PA1330,Penggalang,Zona Peruntukan Lainnya,"1,586","0,01018029735","0,600","57,23","0,2365717841"
+PA1331,Penggalang,Zona Ruang Terbuka Hijau,"15,620","0,1002563382","0,600","57,23","1,248887448"
+PA1332,Penggalang,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1333,Penggalang,Zona Sarana Pelayanan Umum,"0,410","0,002634230715","0,950","57,23","0,1009536421"
+PA1334,Penggalang,Zona Perumahan,"26,119","0,1676425623","0,950","57,23","10,28642611"
+PA1335,Penggalang,Zona Badan Jalan,"4,512","0,02895664509","0,700","57,23","1,40451869"
+PA1336,Pelawad,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1337,Pelawad,Zona Badan Air,"0,000",0,"0,500","57,23",0
+PA1338,Pelawad,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","57,23",0
+PA1339,Pelawad,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA134,Cigelam,Zona Perumahan,"27,334","0,1131628551","0,950","53,31","7,151670161"
+PA1340,Pelawad,Zona Perdagangan dan Jasa,"1,477","0,003953173364","0,950","57,23","0,4064249053"
+PA1341,Pelawad,Zona Perkantoran,"0,072","0,0001930587807","0,950","57,23","0,02237062598"
+PA1342,Pelawad,Zona Perkebunan Rakyat,"1,829","0,004893143704","0,800","57,23","0,1731424931"
+PA1343,Pelawad,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1344,Pelawad,Zona Pertanian,"6,038","0,01615705869","0,560","57,23","0,5542399639"
+PA1345,Pelawad,Zona Peruntukan Lainnya,"0,000",0,"0,600","57,23",0
+PA1346,Pelawad,Zona Ruang Terbuka Hijau,"8,803","0,02355648507","0,600","57,23","0,7455819457"
+PA1347,Pelawad,Zona Ruang Terbuka Non Hijau,"0,077","0,0002056079644","0,700","57,23","0,01052890817"
+PA1348,Pelawad,Zona Sarana Pelayanan Umum,"0,323","0,0008654026006","0,950","57,23","0,07739195426"
+PA1349,Pelawad,Zona Perumahan,"24,942","0,06674670259","0,950","57,23","10,05531585"
+PA135,Cigelam,Zona Badan Jalan,"16,584","0,06865919414","0,700","53,31","4,099295387"
+PA1350,Pelawad,Zona Badan Jalan,"1,547","0,004140845514","0,700","57,23","0,3975617456"
+PA1351,Ranjeng,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1352,Ranjeng,Zona Badan Air,"0,686","0,002440765013","0,500","57,23","0,03002247812"
+PA1353,Ranjeng,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","57,23",0
+PA1354,Ranjeng,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA1355,Ranjeng,Zona Perdagangan dan Jasa,"1,284","0,004566005498","0,950","57,23","0,3513423415"
+PA1356,Ranjeng,Zona Perkantoran,"0,000",0,"0,950","57,23",0
+PA1357,Ranjeng,Zona Perkebunan Rakyat,"0,441","0,001568568483","0,800","57,23","0,05137431285"
+PA1358,Ranjeng,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1359,Ranjeng,Zona Pertanian,"48,845","0,1736873536","0,560","57,23","5,760603065"
+PA136,Kadikaran,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA1360,Ranjeng,Zona Peruntukan Lainnya,"0,000",0,"0,600","57,23",0
+PA1361,Ranjeng,Zona Ruang Terbuka Hijau,"17,671","0,06283607774","0,600","57,23","1,437868685"
+PA1362,Ranjeng,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1363,Ranjeng,Zona Sarana Pelayanan Umum,"1,200","0,004265584405","0,950","57,23","0,3039093927"
+PA1364,Ranjeng,Zona Perumahan,"70,041","0,2490547749","0,950","57,23","25,53601428"
+PA1365,Ranjeng,Zona Badan Jalan,"8,217","0,02921972669","0,700","57,23","2,456331061"
+PA1366,Cisait,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1367,Cisait,Zona Badan Air,"0,000",0,"0,500","57,23",0
+PA1368,Cisait,Zona Kawasan Peruntukan Industri,"8,922","0,03073872914","0,800","57,23","3,503879018"
+PA1369,Cisait,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA137,Kadikaran,Zona Badan Air,"0,265","0,0008168549976","0,500","53,31","0,00692960379"
+PA1370,Cisait,Zona Perdagangan dan Jasa,"0,830","0,002860621045","0,950","57,23","0,2108534547"
+PA1371,Cisait,Zona Perkantoran,"0,078","0,0002679787923","0,950","57,23","0,02077379128"
+PA1372,Cisait,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1373,Cisait,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1374,Cisait,Zona Pertanian,"183,579","0,6325003793","0,560","57,23","22,29903842"
+PA1375,Cisait,Zona Peruntukan Lainnya,"0,015","0,00005319894481","0,600","57,23","0,001742287102"
+PA1376,Cisait,Zona Ruang Terbuka Hijau,"72,828","0,2509224267","0,600","57,23","5,256534476"
+PA1377,Cisait,Zona Ruang Terbuka Non Hijau,"0,230","0,0007916111421","0,700","57,23","0,04267273825"
+PA1378,Cisait,Zona Sarana Pelayanan Umum,"3,446","0,01187293025","0,950","57,23","0,8991187772"
+PA1379,Cisait,Zona Perumahan,"74,733","0,2574832844","0,950","57,23","29,10383306"
+PA138,Kadikaran,Zona Kawasan Peruntukan Industri,"0,145","0,0004464398104","0,800","53,31","0,03217430136"
+PA1380,Cisait,Zona Badan Jalan,"13,329","0,04592391965","0,700","57,23","3,987643399"
+PA1381,Sentul,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1382,Sentul,Zona Badan Air,"0,726","0,001726773417","0,500","57,23","0,02999673483"
+PA1383,Sentul,Zona Kawasan Peruntukan Industri,"24,694","0,05877200745","0,800","57,23","8,052501177"
+PA1384,Sentul,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA1385,Sentul,Zona Perdagangan dan Jasa,"2,648","0,006303073905","0,950","57,23","0,8143022247"
+PA1386,Sentul,Zona Perkantoran,"0,090","0,000213241835","0,950","57,23","0,02965075243"
+PA1387,Sentul,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1388,Sentul,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1389,Sentul,Zona Pertanian,"133,419","0,3175413733","0,560","57,23","13,76456974"
+PA139,Kadikaran,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA1390,Sentul,Zona Peruntukan Lainnya,"0,000",0,"0,600","57,23",0
+PA1391,Sentul,Zona Ruang Terbuka Hijau,"53,185","0,1265815539","0,600","57,23","4,622905206"
+PA1392,Sentul,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1393,Sentul,Zona Sarana Pelayanan Umum,"1,053","0,002507329147","0,950","57,23","0,267588287"
+PA1394,Sentul,Zona Perumahan,"70,261","0,1672235906","0,950","57,23","28,77681732"
+PA1395,Sentul,Zona Badan Jalan,"20,397","0,04854655867","0,700","57,23","6,461473456"
+PA1396,Kendayakan,Zona Pengelolaan Persampahan,"0,000",0,"0,500","57,23",0
+PA1397,Kendayakan,Zona Badan Air,"0,049","0,0001350366604","0,500","57,23","0,002895800299"
+PA1398,Kendayakan,Zona Kawasan Peruntukan Industri,"0,084","0,0002326838389","0,800","57,23","0,02946442823"
+PA1399,Kendayakan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA140,Kadikaran,Zona Perdagangan dan Jasa,"0,496","0,001528379484","0,950","53,31","0,09388552781"
+PA1400,Kendayakan,Zona Perdagangan dan Jasa,"5,879","0,01627734934","0,950","57,23","1,806840009"
+PA1401,Kendayakan,Zona Perkantoran,"0,544","0,001507375561","0,950","57,23","0,1838218552"
+PA1402,Kendayakan,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1403,Kendayakan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","57,23",0
+PA1404,Kendayakan,Zona Pertanian,"50,616","0,140141524","0,560","57,23","5,18025987"
+PA1405,Kendayakan,Zona Peruntukan Lainnya,"0,000",0,"0,600","57,23",0
+PA1406,Kendayakan,Zona Ruang Terbuka Hijau,"116,832","0,3234727703","0,600","57,23","7,014901385"
+PA1407,Kendayakan,Zona Ruang Terbuka Non Hijau,"0,889","0,002461425061","0,700","57,23","0,1527911764"
+PA1408,Kendayakan,Zona Sarana Pelayanan Umum,"2,686","0,007437783213","0,950","57,23","0,5744283986"
+PA1409,Kendayakan,Zona Perumahan,"88,895","0,2461227157","0,950","57,23","33,49878347"
+PA141,Kadikaran,Zona Perkantoran,"0,000",0,"0,950","53,31",0
+PA1410,Kendayakan,Zona Badan Jalan,"13,089","0,03623995467","0,700","57,23","4,186037692"
+PA1411,Kragilan,Zona Pengelolaan Persampahan,"0,083","0,0003449209049","0,500","57,23","0,01493051138"
+PA1412,Kragilan,Zona Badan Air,"10,728","0,044702187","0,500","57,23","0,4772487366"
+PA1413,Kragilan,Zona Kawasan Peruntukan Industri,"188,415","0,785104784","0,800","57,23","73,75804098"
+PA1414,Kragilan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","57,23",0
+PA1415,Kragilan,Zona Perdagangan dan Jasa,"13,741","0,05725517779","0,950","57,23","4,806510534"
+PA1416,Kragilan,Zona Perkantoran,"1,177","0,004903152148","0,950","57,23","0,3153976313"
+PA1417,Kragilan,Zona Perkebunan Rakyat,"0,000",0,"0,800","57,23",0
+PA1418,Kragilan,Zona Pertahanan dan Keamanan,"0,645","0,002687532238","0,700","57,23","0,106234304"
+PA1419,Kragilan,Zona Pertanian,"9,496","0,03956930951","0,560","57,23","0,9819599912"
+PA142,Kadikaran,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA1420,Kragilan,Zona Peruntukan Lainnya,"0,000",0,"0,600","57,23",0
+PA1421,Kragilan,Zona Ruang Terbuka Hijau,"75,200","0,3133484254","0,600","57,23","5,483751541"
+PA1422,Kragilan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","57,23",0
+PA1423,Kragilan,Zona Sarana Pelayanan Umum,"2,373","0,009890089493","0,950","57,23","0,5796862986"
+PA1424,Kragilan,Zona Perumahan,"45,197","0,188331534","0,950","57,23","14,58227756"
+PA1425,Kragilan,Zona Badan Jalan,"20,059","0,08358314538","0,700","57,23","6,673320213"
+PA1426,Kaserangan,Zona Pengelolaan Persampahan,"1,690","0,004457276353","0,500","59,09","0,2999826044"
+PA1427,Kaserangan,Zona Badan Air,"50,868","0,1341655341","0,500","59,09","3,505159705"
+PA1428,Kaserangan,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","59,09",0
+PA1429,Kaserangan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA143,Kadikaran,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA1430,Kaserangan,Zona Perdagangan dan Jasa,"1,139","0,003005264781","0,950","59,09","0,3517319262"
+PA1431,Kaserangan,Zona Perkantoran,"2,123","0,005598646484","0,950","59,09","0,7022064494"
+PA1432,Kaserangan,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1433,Kaserangan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1434,Kaserangan,Zona Pertanian,"82,050","0,2164087528","0,560","59,09","10,26252747"
+PA1435,Kaserangan,Zona Peruntukan Lainnya,"0,000",0,"0,600","59,09",0
+PA1436,Kaserangan,Zona Ruang Terbuka Hijau,"197,072","0,519778926","0,600","59,09","18,15163796"
+PA1437,Kaserangan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1438,Kaserangan,Zona Sarana Pelayanan Umum,"0,333","0,0008780640124","0,950","59,09","0,1136534955"
+PA1439,Kaserangan,Zona Perumahan,"25,906","0,06832783633","0,950","59,09","12,25942574"
+PA144,Kadikaran,Zona Pertanian,"122,225","0,3766017428","0,560","53,31","9,042791275"
+PA1440,Kaserangan,Zona Badan Jalan,"17,964","0,04737969914","0,700","59,09","6,969621091"
+PA1441,Beberan,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1442,Beberan,Zona Badan Air,"0,122","0,0004829788916","0,500","59,09","0,006932403793"
+PA1443,Beberan,Zona Kawasan Peruntukan Industri,"17,249","0,06838924069","0,800","59,09","7,374181725"
+PA1444,Beberan,Zona Pembangkitan Tenaga Listrik,"17,249","0,06838924069","0,800","59,09","6,480849993"
+PA1445,Beberan,Zona Perdagangan dan Jasa,"0,213","0,0008462239578","0,950","59,09","0,07200219098"
+PA1446,Beberan,Zona Perkantoran,"0,000",0,"0,950","59,09",0
+PA1447,Beberan,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1448,Beberan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1449,Beberan,Zona Pertanian,"137,405","0,5447890418","0,560","59,09","16,67475355"
+PA145,Kadikaran,Zona Peruntukan Lainnya,"1,031","0,00317817151","0,600","53,31","0,0958743923"
+PA1450,Beberan,Zona Peruntukan Lainnya,"14,531","0,05761331353","0,600","59,09","2,460916849"
+PA1451,Beberan,Zona Ruang Terbuka Hijau,"32,840","0,1302078037","0,600","59,09","3,074101749"
+PA1452,Beberan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1453,Beberan,Zona Sarana Pelayanan Umum,"0,696","0,002761238313","0,950","59,09","0,173571389"
+PA1454,Beberan,Zona Perumahan,"24,309","0,09638271147","0,950","59,09","11,49179057"
+PA1455,Beberan,Zona Badan Jalan,"7,601","0,03013820703","0,700","59,09","2,578641623"
+PA1456,Citerep,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1457,Citerep,Zona Badan Air,"0,000",0,"0,500","59,09",0
+PA1458,Citerep,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","59,09",0
+PA1459,Citerep,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA146,Kadikaran,Zona Ruang Terbuka Hijau,"11,448","0,03527486795","0,600","53,31","0,6834980653"
+PA1460,Citerep,Zona Perdagangan dan Jasa,"9,282","0,064379576","0,950","59,09","3,151561977"
+PA1461,Citerep,Zona Perkantoran,"1,577","0,01093907235","0,950","59,09","0,7578397151"
+PA1462,Citerep,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1463,Citerep,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1464,Citerep,Zona Pertanian,"50,846","0,3526793869","0,560","59,09","5,978679667"
+PA1465,Citerep,Zona Peruntukan Lainnya,"0,642","0,004452081445","0,600","59,09","0,1019655559"
+PA1466,Citerep,Zona Ruang Terbuka Hijau,"26,791","0,1858283575","0,600","59,09","1,914754077"
+PA1467,Citerep,Zona Ruang Terbuka Non Hijau,"0,022","0,0001545785437","0,700","59,09","0,004169536227"
+PA1468,Citerep,Zona Sarana Pelayanan Umum,"3,926","0,0272302252","0,950","59,09","1,355346742"
+PA1469,Citerep,Zona Perumahan,"43,304","0,300370378","0,950","59,09","19,06419099"
+PA147,Kadikaran,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA1470,Citerep,Zona Badan Jalan,"7,780","0,05396634403","0,700","59,09","3,109484309"
+PA1471,Gosara,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1472,Gosara,Zona Badan Air,"1,847","0,008323334726","0,500","59,09","0,1069525835"
+PA1473,Gosara,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","59,09",0
+PA1474,Gosara,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA1475,Gosara,Zona Perdagangan dan Jasa,"0,359","0,001618528423","0,950","59,09","0,1118554302"
+PA1476,Gosara,Zona Perkantoran,"0,032","0,0001451044741","0,950","59,09","0,01096944271"
+PA1477,Gosara,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1478,Gosara,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1479,Gosara,Zona Pertanian,"189,588","0,854134278","0,560","59,09","21,91378576"
+PA148,Kadikaran,Zona Sarana Pelayanan Umum,"0,425","0,001309752361","0,950","53,31","0,07529210739"
+PA1480,Gosara,Zona Peruntukan Lainnya,"0,000",0,"0,600","59,09",0
+PA1481,Gosara,Zona Ruang Terbuka Hijau,"13,459","0,06063430833","0,600","59,09","1,043014977"
+PA1482,Gosara,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1483,Gosara,Zona Sarana Pelayanan Umum,"0,383","0,001727451383","0,950","59,09","0,1101368797"
+PA1484,Gosara,Zona Perumahan,"13,921","0,06271899042","0,950","59,09","6,273170214"
+PA1485,Gosara,Zona Badan Jalan,"2,375","0,01069800425","0,700","59,09","0,8199102359"
+PA1486,Bumijaya,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1487,Bumijaya,Zona Badan Air,"0,507","0,003908480033","0,500","59,09","0,024567241"
+PA1488,Bumijaya,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","59,09",0
+PA1489,Bumijaya,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA149,Kadikaran,Zona Perumahan,"23,152","0,07133603703","0,950","53,31","7,092254019"
+PA1490,Bumijaya,Zona Perdagangan dan Jasa,"0,602","0,004643745393","0,950","59,09","0,1775390145"
+PA1491,Bumijaya,Zona Perkantoran,"0,602","0,004643745393","0,950","59,09","0,188347971"
+PA1492,Bumijaya,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1493,Bumijaya,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1494,Bumijaya,Zona Pertanian,"98,745","0,7615114696","0,560","59,09","11,6929205"
+PA1495,Bumijaya,Zona Peruntukan Lainnya,"0,000",0,"0,600","59,09",0
+PA1496,Bumijaya,Zona Ruang Terbuka Hijau,"8,626","0,06652457919","0,600","59,09","0,9778454867"
+PA1497,Bumijaya,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1498,Bumijaya,Zona Sarana Pelayanan Umum,"0,421","0,003249346827","0,950","59,09","0,119345931"
+PA1499,Bumijaya,Zona Perumahan,"18,559","0,1431281818","0,950","59,09","8,157278718"
+PA150,Kadikaran,Zona Badan Jalan,"5,531","0,01704162492","0,700","53,31","1,334150281"
+PA1500,Bumijaya,Zona Badan Jalan,"1,607","0,01239045179","0,700","59,09","0,5800659305"
+PA1501,Pulo,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1502,Pulo,Zona Badan Air,"1,686","0,003036235902","0,500","59,09","0,05808166004"
+PA1503,Pulo,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","59,09",0
+PA1504,Pulo,Zona Pembangkitan Tenaga Listrik,"1,686","0,003036235902","0,800","59,09","0,5343984204"
+PA1505,Pulo,Zona Perdagangan dan Jasa,"0,286","0,0005157619217","0,950","59,09","0,1027636152"
+PA1506,Pulo,Zona Perkantoran,"0,077","0,0001389566045","0,950","59,09","0,02700546131"
+PA1507,Pulo,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1508,Pulo,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1509,Pulo,Zona Pertanian,"414,571","0,7464553943","0,560","59,09","47,94170217"
+PA151,Kepandean,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA1510,Pulo,Zona Peruntukan Lainnya,"1,000","0,00180001799","0,600","59,09","0,1560236276"
+PA1511,Pulo,Zona Ruang Terbuka Hijau,"61,785","0,1112464108","0,600","59,09","5,196773318"
+PA1512,Pulo,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1513,Pulo,Zona Sarana Pelayanan Umum,"4,124","0,007424967686","0,950","59,09","1,229302857"
+PA1514,Pulo,Zona Perumahan,"61,708","0,111108954","0,950","59,09","30,71750424"
+PA1515,Pulo,Zona Badan Jalan,"8,462","0,01523706484","0,700","59,09","3,351932979"
+PA1516,Singamerta,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1517,Singamerta,Zona Badan Air,"0,000",0,"0,500","59,09",0
+PA1518,Singamerta,Zona Kawasan Peruntukan Industri,"0,162","0,001084016651","0,800","59,09","0,05436891416"
+PA1519,Singamerta,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA152,Kepandean,Zona Badan Air,"0,000",0,"0,500","53,31",0
+PA1520,Singamerta,Zona Perdagangan dan Jasa,"1,418","0,009491087505","0,950","59,09","0,4824666035"
+PA1521,Singamerta,Zona Perkantoran,"0,368","0,002461833005","0,950","59,09","0,1334857003"
+PA1522,Singamerta,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1523,Singamerta,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1524,Singamerta,Zona Pertanian,"106,519","0,7128472275","0,560","59,09","13,34528976"
+PA1525,Singamerta,Zona Peruntukan Lainnya,"4,904","0,03281652565","0,600","59,09","0,8561162257"
+PA1526,Singamerta,Zona Ruang Terbuka Hijau,"21,230","0,1420763879","0,600","59,09","1,833176266"
+PA1527,Singamerta,Zona Ruang Terbuka Non Hijau,"0,562","0,0037607479","0,700","59,09","0,1015941982"
+PA1528,Singamerta,Zona Sarana Pelayanan Umum,"1,836","0,0122899345","0,950","59,09","0,6631947207"
+PA1529,Singamerta,Zona Perumahan,"29,387","0,1966653638","0,950","59,09","13,0688867"
+PA153,Kepandean,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","53,31",0
+PA1530,Singamerta,Zona Badan Jalan,"8,626","0,05772808949","0,700","59,09","3,169290861"
+PA1531,Ciruas,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1532,Ciruas,Zona Badan Air,"0,000",0,"0,500","59,09",0
+PA1533,Ciruas,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","59,09",0
+PA1534,Ciruas,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA1535,Ciruas,Zona Perdagangan dan Jasa,"0,109","0,0006682659307","0,950","59,09","0,03520102909"
+PA1536,Ciruas,Zona Perkantoran,"0,039","0,0002407740664","0,950","59,09","0,01373908044"
+PA1537,Ciruas,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1538,Ciruas,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1539,Ciruas,Zona Pertanian,"63,861","0,3903848226","0,560","59,09","7,752192821"
+PA154,Kepandean,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA1540,Ciruas,Zona Peruntukan Lainnya,"0,000",0,"0,600","59,09",0
+PA1541,Ciruas,Zona Ruang Terbuka Hijau,"1,718","0,01050220877","0,600","59,09","0,1280813779"
+PA1542,Ciruas,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1543,Ciruas,Zona Sarana Pelayanan Umum,"0,205","0,001256113334","0,950","59,09","0,06106723387"
+PA1544,Ciruas,Zona Perumahan,"13,951","0,08528490952","0,950","59,09","5,829118934"
+PA1545,Ciruas,Zona Badan Jalan,"1,165","0,007122939481","0,700","59,09","0,3497420442"
+PA1546,Cigelam,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1547,Cigelam,Zona Badan Air,"0,000",0,"0,500","59,09",0
+PA1548,Cigelam,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","59,09",0
+PA1549,Cigelam,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA155,Kepandean,Zona Perdagangan dan Jasa,"0,000",0,"0,950","53,31",0
+PA1550,Cigelam,Zona Perdagangan dan Jasa,"0,000",0,"0,950","59,09",0
+PA1551,Cigelam,Zona Perkantoran,"0,000",0,"0,950","59,09",0
+PA1552,Cigelam,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1553,Cigelam,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1554,Cigelam,Zona Pertanian,"445,100","1,842711646","0,560","59,09","60,5997257"
+PA1555,Cigelam,Zona Peruntukan Lainnya,"0,730","0,00302126748","0,600","59,09","0,1052170168"
+PA1556,Cigelam,Zona Ruang Terbuka Hijau,"13,401","0,0554813037","0,600","59,09","1,274971627"
+PA1557,Cigelam,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1558,Cigelam,Zona Sarana Pelayanan Umum,"1,071","0,004432852928","0,950","59,09","0,2568502897"
+PA1559,Cigelam,Zona Perumahan,"27,334","0,1131628551","0,950","59,09","14,12677541"
+PA156,Kepandean,Zona Perkantoran,"0,148","0,002292126759","0,950","53,31","0,03156908145"
+PA1560,Cigelam,Zona Badan Jalan,"16,584","0,06865919414","0,700","59,09","5,595387421"
+PA1561,Kadikaran,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1562,Kadikaran,Zona Badan Air,"0,265","0,0008168549976","0,500","59,09","0,01127260891"
+PA1563,Kadikaran,Zona Kawasan Peruntukan Industri,"0,145","0,0004464398104","0,800","59,09","0,04694996729"
+PA1564,Kadikaran,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA1565,Kadikaran,Zona Perdagangan dan Jasa,"0,496","0,001528379484","0,950","59,09","0,1405276113"
+PA1566,Kadikaran,Zona Perkantoran,"0,000",0,"0,950","59,09",0
+PA1567,Kadikaran,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1568,Kadikaran,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1569,Kadikaran,Zona Pertanian,"122,225","0,3766017428","0,560","59,09","13,90177065"
+PA157,Kepandean,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA1570,Kadikaran,Zona Peruntukan Lainnya,"1,031","0,00317817151","0,600","59,09","0,1528535547"
+PA1571,Kadikaran,Zona Ruang Terbuka Hijau,"11,448","0,03527486795","0,600","59,09","0,8816744057"
+PA1572,Kadikaran,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1573,Kadikaran,Zona Sarana Pelayanan Umum,"0,425","0,001309752361","0,950","59,09","0,1193079458"
+PA1574,Kadikaran,Zona Perumahan,"23,152","0,07133603703","0,950","59,09","11,48962962"
+PA1575,Kadikaran,Zona Badan Jalan,"5,531","0,01704162492","0,700","59,09","2,052030438"
+PA1576,Kepandean,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1577,Kepandean,Zona Badan Air,"0,000",0,"0,500","59,09",0
+PA1578,Kepandean,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","59,09",0
+PA1579,Kepandean,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA158,Kepandean,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA1580,Kepandean,Zona Perdagangan dan Jasa,"0,000",0,"0,950","59,09",0
+PA1581,Kepandean,Zona Perkantoran,"0,148","0,002292126759","0,950","59,09","0,05106098891"
+PA1582,Kepandean,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1583,Kepandean,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1584,Kepandean,Zona Pertanian,"118,808","1,836195358","0,560","59,09","14,27164519"
+PA1585,Kepandean,Zona Peruntukan Lainnya,"0,336","0,005190788548","0,600","59,09","0,04939133086"
+PA1586,Kepandean,Zona Ruang Terbuka Hijau,"16,253","0,2511920397","0,600","59,09","1,364546732"
+PA1587,Kepandean,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1588,Kepandean,Zona Sarana Pelayanan Umum,"1,277","0,01974350206","0,950","59,09","0,4442145805"
+PA1589,Kepandean,Zona Perumahan,"25,728","0,3976234417","0,950","59,09","9,665191636"
+PA159,Kepandean,Zona Pertanian,"118,808","1,836195358","0,560","53,31","9,504276543"
+PA1590,Kepandean,Zona Badan Jalan,"3,353","0,0518133438","0,700","59,09","1,185685196"
+PA1591,Pamong,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1592,Pamong,Zona Badan Air,"0,000",0,"0,500","59,09",0
+PA1593,Pamong,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","59,09",0
+PA1594,Pamong,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA1595,Pamong,Zona Perdagangan dan Jasa,"0,097","0,002554077681","0,950","59,09","0,02774277022"
+PA1596,Pamong,Zona Perkantoran,"0,025","0,0006639277315","0,950","59,09","0,008826092883"
+PA1597,Pamong,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1598,Pamong,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1599,Pamong,Zona Pertanian,"192,685","5,056750599","0,560","59,09","20,99539378"
+PA160,Kepandean,Zona Peruntukan Lainnya,"0,336","0,005190788548","0,600","53,31","0,03075111763"
+PA1600,Pamong,Zona Peruntukan Lainnya,"0,450","0,01182261092","0,600","59,09","0,07576471249"
+PA1601,Pamong,Zona Ruang Terbuka Hijau,"16,810","0,4411443282","0,600","59,09","1,275717107"
+PA1602,Pamong,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1603,Pamong,Zona Sarana Pelayanan Umum,"0,604","0,01585316218","0,950","59,09","0,2299816263"
+PA1604,Pamong,Zona Perumahan,"19,340","0,5075532508","0,950","59,09","7,32538994"
+PA1605,Pamong,Zona Badan Jalan,"4,380","0,1149496476","0,700","59,09","1,682452657"
+PA1606,Penggalang,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1607,Penggalang,Zona Badan Air,"0,000",0,"0,500","59,09",0
+PA1608,Penggalang,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","59,09",0
+PA1609,Penggalang,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA161,Kepandean,Zona Ruang Terbuka Hijau,"16,253","0,2511920397","0,600","53,31","0,8764559619"
+PA1610,Penggalang,Zona Perdagangan dan Jasa,"0,000",0,"0,950","59,09",0
+PA1611,Penggalang,Zona Perkantoran,"0,020","0,0001265755525","0,950","59,09","0,007515552247"
+PA1612,Penggalang,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1613,Penggalang,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1614,Penggalang,Zona Pertanian,"269,230","1,728004333","0,560","59,09","30,97242838"
+PA1615,Penggalang,Zona Peruntukan Lainnya,"1,586","0,01018029735","0,600","59,09","0,2833877885"
+PA1616,Penggalang,Zona Ruang Terbuka Hijau,"15,620","0,1002563382","0,600","59,09","1,313399107"
+PA1617,Penggalang,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1618,Penggalang,Zona Sarana Pelayanan Umum,"0,410","0,002634230715","0,950","59,09","0,121706082"
+PA1619,Penggalang,Zona Perumahan,"26,119","0,1676425623","0,950","59,09","10,85176413"
+PA162,Kepandean,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA1620,Penggalang,Zona Badan Jalan,"4,512","0,02895664509","0,700","59,09","1,648576007"
+PA1621,Pelawad,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1622,Pelawad,Zona Badan Air,"0,000",0,"0,500","59,09",0
+PA1623,Pelawad,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","59,09",0
+PA1624,Pelawad,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA1625,Pelawad,Zona Perdagangan dan Jasa,"1,477","0,003953173364","0,950","59,09","0,4687249688"
+PA1626,Pelawad,Zona Perkantoran,"0,072","0,0001930587807","0,950","59,09","0,02887233705"
+PA1627,Pelawad,Zona Perkebunan Rakyat,"1,829","0,004893143704","0,800","59,09","0,2333251891"
+PA1628,Pelawad,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1629,Pelawad,Zona Pertanian,"6,038","0,01615705869","0,560","59,09","0,7906886688"
+PA163,Kepandean,Zona Sarana Pelayanan Umum,"1,277","0,01974350206","0,950","53,31","0,2612125688"
+PA1630,Pelawad,Zona Peruntukan Lainnya,"0,000",0,"0,600","59,09",0
+PA1631,Pelawad,Zona Ruang Terbuka Hijau,"8,803","0,02355648507","0,600","59,09","0,7700872508"
+PA1632,Pelawad,Zona Ruang Terbuka Non Hijau,"0,077","0,0002056079644","0,700","59,09","0,01517848545"
+PA1633,Pelawad,Zona Sarana Pelayanan Umum,"0,323","0,0008654026006","0,950","59,09","0,09536658249"
+PA1634,Pelawad,Zona Perumahan,"24,942","0,06674670259","0,950","59,09","9,564221419"
+PA1635,Pelawad,Zona Badan Jalan,"1,547","0,004140845514","0,700","59,09","0,4599482723"
+PA1636,Ranjeng,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1637,Ranjeng,Zona Badan Air,"0,686","0,002440765013","0,500","59,09","0,03692996355"
+PA1638,Ranjeng,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","59,09",0
+PA1639,Ranjeng,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA164,Kepandean,Zona Perumahan,"25,728","0,3976234417","0,950","53,31","6,194162654"
+PA1640,Ranjeng,Zona Perdagangan dan Jasa,"1,284","0,004566005498","0,950","59,09","0,3535137849"
+PA1641,Ranjeng,Zona Perkantoran,"0,000",0,"0,950","59,09",0
+PA1642,Ranjeng,Zona Perkebunan Rakyat,"0,441","0,001568568483","0,800","59,09","0,05748532091"
+PA1643,Ranjeng,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1644,Ranjeng,Zona Pertanian,"48,845","0,1736873536","0,560","59,09","6,524993927"
+PA1645,Ranjeng,Zona Peruntukan Lainnya,"0,000",0,"0,600","59,09",0
+PA1646,Ranjeng,Zona Ruang Terbuka Hijau,"17,671","0,06283607774","0,600","59,09","1,541179606"
+PA1647,Ranjeng,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1648,Ranjeng,Zona Sarana Pelayanan Umum,"1,200","0,004265584405","0,950","59,09","0,3462378287"
+PA1649,Ranjeng,Zona Perumahan,"70,041","0,2490547749","0,950","59,09","28,76923654"
+PA165,Kepandean,Zona Badan Jalan,"3,353","0,0518133438","0,700","53,31","0,7886252679"
+PA1650,Ranjeng,Zona Badan Jalan,"8,217","0,02921972669","0,700","59,09","3,291099793"
+PA1651,Cisait,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1652,Cisait,Zona Badan Air,"0,000",0,"0,500","59,09",0
+PA1653,Cisait,Zona Kawasan Peruntukan Industri,"8,922","0,03073872914","0,800","59,09","4,171304832"
+PA1654,Cisait,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA1655,Cisait,Zona Perdagangan dan Jasa,"0,830","0,002860621045","0,950","59,09","0,2311212835"
+PA1656,Cisait,Zona Perkantoran,"0,078","0,0002679787923","0,950","59,09","0,02385885118"
+PA1657,Cisait,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1658,Cisait,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1659,Cisait,Zona Pertanian,"183,579","0,6325003793","0,560","59,09","22,68539999"
+PA166,Pamong,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA1660,Cisait,Zona Peruntukan Lainnya,"0,015","0,00005319894481","0,600","59,09","0,002072451975"
+PA1661,Cisait,Zona Ruang Terbuka Hijau,"72,828","0,2509224267","0,600","59,09","6,982042072"
+PA1662,Cisait,Zona Ruang Terbuka Non Hijau,"0,230","0,0007916111421","0,700","59,09","0,03780191618"
+PA1663,Cisait,Zona Sarana Pelayanan Umum,"3,446","0,01187293025","0,950","59,09","1,063916899"
+PA1664,Cisait,Zona Perumahan,"74,733","0,2574832844","0,950","59,09","33,51150774"
+PA1665,Cisait,Zona Badan Jalan,"13,329","0,04592391965","0,700","59,09","5,381338229"
+PA1666,Sentul,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1667,Sentul,Zona Badan Air,"0,726","0,001726773417","0,500","59,09","0,03395952421"
+PA1668,Sentul,Zona Kawasan Peruntukan Industri,"24,694","0,05877200745","0,800","59,09","9,342756361"
+PA1669,Sentul,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA167,Pamong,Zona Badan Air,"0,000",0,"0,500","53,31",0
+PA1670,Sentul,Zona Perdagangan dan Jasa,"2,648","0,006303073905","0,950","59,09","0,7357555423"
+PA1671,Sentul,Zona Perkantoran,"0,090","0,000213241835","0,950","59,09","0,03484974136"
+PA1672,Sentul,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1673,Sentul,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1674,Sentul,Zona Pertanian,"133,419","0,3175413733","0,560","59,09","13,85104159"
+PA1675,Sentul,Zona Peruntukan Lainnya,"0,000",0,"0,600","59,09",0
+PA1676,Sentul,Zona Ruang Terbuka Hijau,"53,185","0,1265815539","0,600","59,09","5,546167069"
+PA1677,Sentul,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1678,Sentul,Zona Sarana Pelayanan Umum,"1,053","0,002507329147","0,950","59,09","0,2674202178"
+PA1679,Sentul,Zona Perumahan,"70,261","0,1672235906","0,950","59,09","30,14527628"
+PA168,Pamong,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","53,31",0
+PA1680,Sentul,Zona Badan Jalan,"20,397","0,04854655867","0,700","59,09","7,418308178"
+PA1681,Kendayakan,Zona Pengelolaan Persampahan,"0,000",0,"0,500","59,09",0
+PA1682,Kendayakan,Zona Badan Air,"0,049","0,0001350366604","0,500","59,09","0,00271143983"
+PA1683,Kendayakan,Zona Kawasan Peruntukan Industri,"0,084","0,0002326838389","0,800","59,09","0,03048814025"
+PA1684,Kendayakan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA1685,Kendayakan,Zona Perdagangan dan Jasa,"5,879","0,01627734934","0,950","59,09","2,474994787"
+PA1686,Kendayakan,Zona Perkantoran,"0,544","0,001507375561","0,950","59,09","0,2134519196"
+PA1687,Kendayakan,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1688,Kendayakan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","59,09",0
+PA1689,Kendayakan,Zona Pertanian,"50,616","0,140141524","0,560","59,09","5,875824159"
+PA169,Pamong,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA1690,Kendayakan,Zona Peruntukan Lainnya,"0,000",0,"0,600","59,09",0
+PA1691,Kendayakan,Zona Ruang Terbuka Hijau,"116,832","0,3234727703","0,600","59,09","11,44931435"
+PA1692,Kendayakan,Zona Ruang Terbuka Non Hijau,"0,889","0,002461425061","0,700","59,09","0,1479848406"
+PA1693,Kendayakan,Zona Sarana Pelayanan Umum,"2,686","0,007437783213","0,950","59,09","0,7006129539"
+PA1694,Kendayakan,Zona Perumahan,"88,895","0,2461227157","0,950","59,09","35,85866439"
+PA1695,Kendayakan,Zona Badan Jalan,"13,089","0,03623995467","0,700","59,09","4,348371081"
+PA1696,Kragilan,Zona Pengelolaan Persampahan,"0,083","0,0003449209049","0,500","59,09","0,01732266168"
+PA1697,Kragilan,Zona Badan Air,"10,728","0,044702187","0,500","59,09","0,758912605"
+PA1698,Kragilan,Zona Kawasan Peruntukan Industri,"188,415","0,785104784","0,800","59,09","77,37372909"
+PA1699,Kragilan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","59,09",0
+PA170,Pamong,Zona Perdagangan dan Jasa,"0,097","0,002554077681","0,950","53,31","0,02161605831"
+PA1700,Kragilan,Zona Perdagangan dan Jasa,"13,741","0,05725517779","0,950","59,09","6,059869182"
+PA1701,Kragilan,Zona Perkantoran,"1,177","0,004903152148","0,950","59,09","0,4280841183"
+PA1702,Kragilan,Zona Perkebunan Rakyat,"0,000",0,"0,800","59,09",0
+PA1703,Kragilan,Zona Pertahanan dan Keamanan,"0,645","0,002687532238","0,700","59,09","0,1123128991"
+PA1704,Kragilan,Zona Pertanian,"9,496","0,03956930951","0,560","59,09","1,11764507"
+PA1705,Kragilan,Zona Peruntukan Lainnya,"0,000",0,"0,600","59,09",0
+PA1706,Kragilan,Zona Ruang Terbuka Hijau,"75,200","0,3133484254","0,600","59,09","6,562940236"
+PA1707,Kragilan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","59,09",0
+PA1708,Kragilan,Zona Sarana Pelayanan Umum,"2,373","0,009890089493","0,950","59,09","0,6239700815"
+PA1709,Kragilan,Zona Perumahan,"45,197","0,188331534","0,950","59,09","18,06271686"
+PA171,Pamong,Zona Perkantoran,"0,025","0,0006639277315","0,950","53,31","0,00549967772"
+PA1710,Kragilan,Zona Badan Jalan,"20,059","0,08358314538","0,700","59,09","7,482709537"
+PA172,Pamong,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA173,Pamong,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA174,Pamong,Zona Pertanian,"192,685","5,056750599","0,560","53,31","16,27462436"
+PA175,Pamong,Zona Peruntukan Lainnya,"0,450","0,01182261092","0,600","53,31","0,04588646671"
+PA176,Pamong,Zona Ruang Terbuka Hijau,"16,810","0,4411443282","0,600","53,31","0,9885343599"
+PA177,Pamong,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA178,Pamong,Zona Sarana Pelayanan Umum,"0,604","0,01585316218","0,950","53,31","0,1064426908"
+PA179,Pamong,Zona Perumahan,"19,340","0,5075532508","0,950","53,31","5,608139754"
+PA180,Pamong,Zona Badan Jalan,"4,380","0,1149496476","0,700","53,31","0,9649981341"
+PA181,Penggalang,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA182,Penggalang,Zona Badan Air,"0,000",0,"0,500","53,31",0
+PA183,Penggalang,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","53,31",0
+PA184,Penggalang,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA185,Penggalang,Zona Perdagangan dan Jasa,"0,000",0,"0,950","53,31",0
+PA186,Penggalang,Zona Perkantoran,"0,020","0,0001265755525","0,950","53,31","0,00375015489"
+PA187,Penggalang,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA188,Penggalang,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA189,Penggalang,Zona Pertanian,"269,230","1,728004333","0,560","53,31","21,59431834"
+PA190,Penggalang,Zona Peruntukan Lainnya,"1,586","0,01018029735","0,600","53,31","0,1817238041"
+PA191,Penggalang,Zona Ruang Terbuka Hijau,"15,620","0,1002563382","0,600","53,31","0,8773228167"
+PA192,Penggalang,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA193,Penggalang,Zona Sarana Pelayanan Umum,"0,410","0,002634230715","0,950","53,31","0,06613669411"
+PA194,Penggalang,Zona Perumahan,"26,119","0,1676425623","0,950","53,31","7,31162623"
+PA195,Penggalang,Zona Badan Jalan,"4,512","0,02895664509","0,700","53,31","0,9859238558"
+PA196,Pelawad,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA197,Pelawad,Zona Badan Air,"0,000",0,"0,500","53,31",0
+PA198,Pelawad,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","53,31",0
+PA199,Pelawad,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA200,Pelawad,Zona Perdagangan dan Jasa,"1,477","0,003953173364","0,950","53,31","0,2877088676"
+PA201,Pelawad,Zona Perkantoran,"0,072","0,0001930587807","0,950","53,31","0,01393371217"
+PA202,Pelawad,Zona Perkebunan Rakyat,"1,829","0,004893143704","0,800","53,31","0,1451947935"
+PA203,Pelawad,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA204,Pelawad,Zona Pertanian,"6,038","0,01615705869","0,560","53,31","0,4532496222"
+PA205,Pelawad,Zona Peruntukan Lainnya,"0,000",0,"0,600","53,31",0
+PA206,Pelawad,Zona Ruang Terbuka Hijau,"8,803","0,02355648507","0,600","53,31","0,4683247905"
+PA207,Pelawad,Zona Ruang Terbuka Non Hijau,"0,077","0,0002056079644","0,700","53,31","0,008210444962"
+PA208,Pelawad,Zona Sarana Pelayanan Umum,"0,323","0,0008654026006","0,950","53,31","0,05787348344"
+PA209,Pelawad,Zona Perumahan,"24,942","0,06674670259","0,950","53,31","6,554549493"
+PA210,Pelawad,Zona Badan Jalan,"1,547","0,004140845514","0,700","53,31","0,3235059946"
+PA211,Ranjeng,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA212,Ranjeng,Zona Badan Air,"0,686","0,002440765013","0,500","53,31","0,01969918939"
+PA213,Ranjeng,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","53,31",0
+PA214,Ranjeng,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA215,Ranjeng,Zona Perdagangan dan Jasa,"1,284","0,004566005498","0,950","53,31","0,254959834"
+PA216,Ranjeng,Zona Perkantoran,"0,000",0,"0,950","53,31",0
+PA217,Ranjeng,Zona Perkebunan Rakyat,"0,441","0,001568568483","0,800","53,31","0,03729592818"
+PA218,Ranjeng,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA219,Ranjeng,Zona Pertanian,"48,845","0,1736873536","0,560","53,31","3,593031156"
+PA220,Ranjeng,Zona Peruntukan Lainnya,"0,000",0,"0,600","53,31",0
+PA221,Ranjeng,Zona Ruang Terbuka Hijau,"17,671","0,06283607774","0,600","53,31","0,8085377617"
+PA222,Ranjeng,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA223,Ranjeng,Zona Sarana Pelayanan Umum,"1,200","0,004265584405","0,950","53,31","0,1898446715"
+PA224,Ranjeng,Zona Perumahan,"70,041","0,2490547749","0,950","53,31","21,12033914"
+PA225,Ranjeng,Zona Badan Jalan,"8,217","0,02921972669","0,700","53,31","1,853998228"
+PA226,Cisait,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA227,Cisait,Zona Badan Air,"0,000",0,"0,500","53,31",0
+PA228,Cisait,Zona Kawasan Peruntukan Industri,"8,922","0,03073872914","0,800","53,31","2,019884747"
+PA229,Cisait,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA230,Cisait,Zona Perdagangan dan Jasa,"0,830","0,002860621045","0,950","53,31","0,1528850479"
+PA231,Cisait,Zona Perkantoran,"0,078","0,0002679787923","0,950","53,31","0,01875577601"
+PA232,Cisait,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA233,Cisait,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA234,Cisait,Zona Pertanian,"183,579","0,6325003793","0,560","53,31","11,89019627"
+PA235,Cisait,Zona Peruntukan Lainnya,"0,015","0,00005319894481","0,600","53,31","0,001536849953"
+PA236,Cisait,Zona Ruang Terbuka Hijau,"72,828","0,2509224267","0,600","53,31","4,27847815"
+PA237,Cisait,Zona Ruang Terbuka Non Hijau,"0,230","0,0007916111421","0,700","53,31","0,02459475637"
+PA238,Cisait,Zona Sarana Pelayanan Umum,"3,446","0,01187293025","0,950","53,31","0,6802725963"
+PA239,Cisait,Zona Perumahan,"74,733","0,2574832844","0,950","53,31","17,60708182"
+PA240,Cisait,Zona Badan Jalan,"13,329","0,04592391965","0,700","53,31","2,925286805"
+PA241,Sentul,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA242,Sentul,Zona Badan Air,"0,726","0,001726773417","0,500","53,31","0,02478780147"
+PA243,Sentul,Zona Kawasan Peruntukan Industri,"24,694","0,05877200745","0,800","53,31","5,492016215"
+PA244,Sentul,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA245,Sentul,Zona Perdagangan dan Jasa,"2,648","0,006303073905","0,950","53,31","0,525871565"
+PA246,Sentul,Zona Perkantoran,"0,090","0,000213241835","0,950","53,31","0,02098321967"
+PA247,Sentul,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA248,Sentul,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA249,Sentul,Zona Pertanian,"133,419","0,3175413733","0,560","53,31","11,08198249"
+PA250,Sentul,Zona Peruntukan Lainnya,"0,000",0,"0,600","53,31",0
+PA251,Sentul,Zona Ruang Terbuka Hijau,"53,185","0,1265815539","0,600","53,31","2,658498953"
+PA252,Sentul,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA253,Sentul,Zona Sarana Pelayanan Umum,"1,053","0,002507329147","0,950","53,31","0,1838341784"
+PA254,Sentul,Zona Perumahan,"70,261","0,1672235906","0,950","53,31","21,27210047"
+PA255,Sentul,Zona Badan Jalan,"20,397","0,04854655867","0,700","53,31","4,221602318"
+PA256,Kendayakan,Zona Pengelolaan Persampahan,"0,000",0,"0,500","53,31",0
+PA257,Kendayakan,Zona Badan Air,"0,049","0,0001350366604","0,500","53,31","0,001525512959"
+PA258,Kendayakan,Zona Kawasan Peruntukan Industri,"0,084","0,0002326838389","0,800","53,31","0,01738851789"
+PA259,Kendayakan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA260,Kendayakan,Zona Perdagangan dan Jasa,"5,879","0,01627734934","0,950","53,31","1,296120259"
+PA261,Kendayakan,Zona Perkantoran,"0,544","0,001507375561","0,950","53,31","0,1347357155"
+PA262,Kendayakan,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA263,Kendayakan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","53,31",0
+PA264,Kendayakan,Zona Pertanian,"50,616","0,140141524","0,560","53,31","4,217540049"
+PA265,Kendayakan,Zona Peruntukan Lainnya,"0,000",0,"0,600","53,31",0
+PA266,Kendayakan,Zona Ruang Terbuka Hijau,"116,832","0,3234727703","0,600","53,31","5,37095349"
+PA267,Kendayakan,Zona Ruang Terbuka Non Hijau,"0,889","0,002461425061","0,700","53,31","0,132078038"
+PA268,Kendayakan,Zona Sarana Pelayanan Umum,"2,686","0,007437783213","0,950","53,31","0,5439032272"
+PA269,Kendayakan,Zona Perumahan,"88,895","0,2461227157","0,950","53,31","23,44067091"
+PA270,Kendayakan,Zona Badan Jalan,"13,089","0,03623995467","0,700","53,31","3,011413865"
+PA271,Kragilan,Zona Pengelolaan Persampahan,"0,083","0,0003449209049","0,500","53,31","0,01272590021"
+PA272,Kragilan,Zona Badan Air,"10,728","0,044702187","0,500","53,31","0,3652297928"
+PA273,Kragilan,Zona Kawasan Peruntukan Industri,"188,415","0,785104784","0,800","53,31","49,85492067"
+PA274,Kragilan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","53,31",0
+PA275,Kragilan,Zona Perdagangan dan Jasa,"13,741","0,05725517779","0,950","53,31","3,25172785"
+PA276,Kragilan,Zona Perkantoran,"1,177","0,004903152148","0,950","53,31","0,2701912539"
+PA277,Kragilan,Zona Perkebunan Rakyat,"0,000",0,"0,800","53,31",0
+PA278,Kragilan,Zona Pertahanan dan Keamanan,"0,645","0,002687532238","0,700","53,31","0,07384563088"
+PA279,Kragilan,Zona Pertanian,"9,496","0,03956930951","0,560","53,31","0,8272541913"
+PA280,Kragilan,Zona Peruntukan Lainnya,"0,000",0,"0,600","53,31",0
+PA281,Kragilan,Zona Ruang Terbuka Hijau,"75,200","0,3133484254","0,600","53,31","4,619798973"
+PA282,Kragilan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","53,31",0
+PA283,Kragilan,Zona Sarana Pelayanan Umum,"2,373","0,009890089493","0,950","53,31","0,4482534274"
+PA284,Kragilan,Zona Perumahan,"45,197","0,188331534","0,950","53,31","10,95891458"
+PA285,Kragilan,Zona Badan Jalan,"20,059","0,08358314538","0,700","53,31","5,109782497"
+PA286,Kaserangan,Zona Pengelolaan Persampahan,"1,690","0,004457276353","0,500","44,27","0,137845606"
+PA287,Kaserangan,Zona Badan Air,"50,868","0,1341655341","0,500","44,27","1,214738305"
+PA288,Kaserangan,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","44,27",0
+PA289,Kaserangan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA290,Kaserangan,Zona Perdagangan dan Jasa,"1,139","0,003005264781","0,950","44,27","0,1335779555"
+PA291,Kaserangan,Zona Perkantoran,"2,123","0,005598646484","0,950","44,27","0,2574703326"
+PA292,Kaserangan,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA293,Kaserangan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA294,Kaserangan,Zona Pertanian,"82,050","0,2164087528","0,560","44,27","4,091175688"
+PA295,Kaserangan,Zona Peruntukan Lainnya,"0,000",0,"0,600","44,27",0
+PA296,Kaserangan,Zona Ruang Terbuka Hijau,"197,072","0,519778926","0,600","44,27","7,474776344"
+PA297,Kaserangan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA298,Kaserangan,Zona Sarana Pelayanan Umum,"0,333","0,0008780640124","0,950","44,27","0,02985397696"
+PA299,Kaserangan,Zona Perumahan,"25,906","0,06832783633","0,950","44,27","4,433567119"
+PA300,Kaserangan,Zona Badan Jalan,"17,964","0,04737969914","0,700","44,27","2,61286827"
+PA301,Beberan,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA302,Beberan,Zona Badan Air,"0,122","0,0004829788916","0,500","44,27","0,001923090842"
+PA303,Beberan,Zona Kawasan Peruntukan Industri,"17,249","0,06838924069","0,800","44,27","2,415360827"
+PA304,Beberan,Zona Pembangkitan Tenaga Listrik,"17,249","0,06838924069","0,800","44,27","2,6986794"
+PA305,Beberan,Zona Perdagangan dan Jasa,"0,213","0,0008462239578","0,950","44,27","0,02492861736"
+PA306,Beberan,Zona Perkantoran,"0,000",0,"0,950","44,27",0
+PA307,Beberan,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA308,Beberan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA309,Beberan,Zona Pertanian,"137,405","0,5447890418","0,560","44,27","7,739846004"
+PA310,Beberan,Zona Peruntukan Lainnya,"14,531","0,05761331353","0,600","44,27","0,9820640122"
+PA311,Beberan,Zona Ruang Terbuka Hijau,"32,840","0,1302078037","0,600","44,27","1,008827361"
+PA312,Beberan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA313,Beberan,Zona Sarana Pelayanan Umum,"0,696","0,002761238313","0,950","44,27","0,08148847743"
+PA314,Beberan,Zona Perumahan,"24,309","0,09638271147","0,950","44,27","4,284060871"
+PA315,Beberan,Zona Badan Jalan,"7,601","0,03013820703","0,700","44,27","1,165982561"
+PA316,Citerep,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA317,Citerep,Zona Badan Air,"0,000",0,"0,500","44,27",0
+PA318,Citerep,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","44,27",0
+PA319,Citerep,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA320,Citerep,Zona Perdagangan dan Jasa,"9,282","0,064379576","0,950","44,27","1,293569714"
+PA321,Citerep,Zona Perkantoran,"1,577","0,01093907235","0,950","44,27","0,2723981227"
+PA322,Citerep,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA323,Citerep,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA324,Citerep,Zona Pertanian,"50,846","0,3526793869","0,560","44,27","2,636153519"
+PA325,Citerep,Zona Peruntukan Lainnya,"0,642","0,004452081445","0,600","44,27","0,03677148533"
+PA326,Citerep,Zona Ruang Terbuka Hijau,"26,791","0,1858283575","0,600","44,27","0,8826366476"
+PA327,Citerep,Zona Ruang Terbuka Non Hijau,"0,022","0,0001545785437","0,700","44,27","0,001858978497"
+PA328,Citerep,Zona Sarana Pelayanan Umum,"3,926","0,0272302252","0,950","44,27","0,5522304111"
+PA329,Citerep,Zona Perumahan,"43,304","0,300370378","0,950","44,27","6,745066705"
+PA330,Citerep,Zona Badan Jalan,"7,780","0,05396634403","0,700","44,27","1,164011274"
+PA331,Gosara,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA332,Gosara,Zona Badan Air,"1,847","0,008323334726","0,500","44,27","0,03021128498"
+PA333,Gosara,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","44,27",0
+PA334,Gosara,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA335,Gosara,Zona Perdagangan dan Jasa,"0,359","0,001618528423","0,950","44,27","0,04213568915"
+PA336,Gosara,Zona Perkantoran,"0,032","0,0001451044741","0,950","44,27","0,004930344945"
+PA337,Gosara,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA338,Gosara,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA339,Gosara,Zona Pertanian,"189,588","0,854134278","0,560","44,27","8,657216665"
+PA340,Gosara,Zona Peruntukan Lainnya,"0,000",0,"0,600","44,27",0
+PA341,Gosara,Zona Ruang Terbuka Hijau,"13,459","0,06063430833","0,600","44,27","0,5814379787"
+PA342,Gosara,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA343,Gosara,Zona Sarana Pelayanan Umum,"0,383","0,001727451383","0,950","44,27","0,04093207934"
+PA344,Gosara,Zona Perumahan,"13,921","0,06271899042","0,950","44,27","2,189845876"
+PA345,Gosara,Zona Badan Jalan,"2,375","0,01069800425","0,700","44,27","0,3570198266"
+PA346,Bumijaya,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA347,Bumijaya,Zona Badan Air,"0,507","0,003908480033","0,500","44,27","0,008505392428"
+PA348,Bumijaya,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","44,27",0
+PA349,Bumijaya,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA350,Bumijaya,Zona Perdagangan dan Jasa,"0,602","0,004643745393","0,950","44,27","0,07915971247"
+PA351,Bumijaya,Zona Perkantoran,"0,602","0,004643745393","0,950","44,27","0,08136053834"
+PA352,Bumijaya,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA353,Bumijaya,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA354,Bumijaya,Zona Pertanian,"98,745","0,7615114696","0,560","44,27","4,455138559"
+PA355,Bumijaya,Zona Peruntukan Lainnya,"0,000",0,"0,600","44,27",0
+PA356,Bumijaya,Zona Ruang Terbuka Hijau,"8,626","0,06652457919","0,600","44,27","0,3424845905"
+PA357,Bumijaya,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA358,Bumijaya,Zona Sarana Pelayanan Umum,"0,421","0,003249346827","0,950","44,27","0,0439273466"
+PA359,Bumijaya,Zona Perumahan,"18,559","0,1431281818","0,950","44,27","3,241855747"
+PA360,Bumijaya,Zona Badan Jalan,"1,607","0,01239045179","0,700","44,27","0,2512592667"
+PA361,Pulo,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA362,Pulo,Zona Badan Air,"1,686","0,003036235902","0,500","44,27","0,03909962775"
+PA363,Pulo,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","44,27",0
+PA364,Pulo,Zona Pembangkitan Tenaga Listrik,"1,686","0,003036235902","0,800","44,27","0,2313441028"
+PA365,Pulo,Zona Perdagangan dan Jasa,"0,286","0,0005157619217","0,950","44,27","0,03343294548"
+PA366,Pulo,Zona Perkantoran,"0,077","0,0001389566045","0,950","44,27","0,01051862155"
+PA367,Pulo,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA368,Pulo,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA369,Pulo,Zona Pertanian,"414,571","0,7464553943","0,560","44,27","17,8611249"
+PA370,Pulo,Zona Peruntukan Lainnya,"1,000","0,00180001799","0,600","44,27","0,06335366024"
+PA371,Pulo,Zona Ruang Terbuka Hijau,"61,785","0,1112464108","0,600","44,27","1,853984352"
+PA372,Pulo,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA373,Pulo,Zona Sarana Pelayanan Umum,"4,124","0,007424967686","0,950","44,27","0,4795636157"
+PA374,Pulo,Zona Perumahan,"61,708","0,111108954","0,950","44,27","10,43884928"
+PA375,Pulo,Zona Badan Jalan,"8,462","0,01523706484","0,700","44,27","1,104874648"
+PA376,Singamerta,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA377,Singamerta,Zona Badan Air,"0,000",0,"0,500","44,27",0
+PA378,Singamerta,Zona Kawasan Peruntukan Industri,"0,162","0,001084016651","0,800","44,27","0,01858370245"
+PA379,Singamerta,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA380,Singamerta,Zona Perdagangan dan Jasa,"1,418","0,009491087505","0,950","44,27","0,1522430527"
+PA381,Singamerta,Zona Perkantoran,"0,368","0,002461833005","0,950","44,27","0,05417665993"
+PA382,Singamerta,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA383,Singamerta,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA384,Singamerta,Zona Pertanian,"106,519","0,7128472275","0,560","44,27","4,767439793"
+PA385,Singamerta,Zona Peruntukan Lainnya,"4,904","0,03281652565","0,600","44,27","0,3581055529"
+PA386,Singamerta,Zona Ruang Terbuka Hijau,"21,230","0,1420763879","0,600","44,27","0,6840683197"
+PA387,Singamerta,Zona Ruang Terbuka Non Hijau,"0,562","0,0037607479","0,700","44,27","0,03908248391"
+PA388,Singamerta,Zona Sarana Pelayanan Umum,"1,836","0,0122899345","0,950","44,27","0,2326592567"
+PA389,Singamerta,Zona Perumahan,"29,387","0,1966653638","0,950","44,27","5,155504215"
+PA390,Singamerta,Zona Badan Jalan,"8,626","0,05772808949","0,700","44,27","1,266533197"
+PA391,Ciruas,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA392,Ciruas,Zona Badan Air,"0,000",0,"0,500","44,27",0
+PA393,Ciruas,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","44,27",0
+PA394,Ciruas,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA395,Ciruas,Zona Perdagangan dan Jasa,"0,109","0,0006682659307","0,950","44,27","0,01325367649"
+PA396,Ciruas,Zona Perkantoran,"0,039","0,0002407740664","0,950","44,27","0,006348085692"
+PA397,Ciruas,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA398,Ciruas,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA399,Ciruas,Zona Pertanian,"63,861","0,3903848226","0,560","44,27","2,987312579"
+PA400,Ciruas,Zona Peruntukan Lainnya,"0,000",0,"0,600","44,27",0
+PA401,Ciruas,Zona Ruang Terbuka Hijau,"1,718","0,01050220877","0,600","44,27","0,05811610767"
+PA402,Ciruas,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA403,Ciruas,Zona Sarana Pelayanan Umum,"0,205","0,001256113334","0,950","44,27","0,02329501113"
+PA404,Ciruas,Zona Perumahan,"13,951","0,08528490952","0,950","44,27","2,344293545"
+PA405,Ciruas,Zona Badan Jalan,"1,165","0,007122939481","0,700","44,27","0,124596236"
+PA406,Cigelam,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA407,Cigelam,Zona Badan Air,"0,000",0,"0,500","44,27",0
+PA408,Cigelam,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","44,27",0
+PA409,Cigelam,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA410,Cigelam,Zona Perdagangan dan Jasa,"0,000",0,"0,950","44,27",0
+PA411,Cigelam,Zona Perkantoran,"0,000",0,"0,950","44,27",0
+PA412,Cigelam,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA413,Cigelam,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA414,Cigelam,Zona Pertanian,"445,100","1,842711646","0,560","44,27","19,53408239"
+PA415,Cigelam,Zona Peruntukan Lainnya,"0,730","0,00302126748","0,600","44,27","0,04342159825"
+PA416,Cigelam,Zona Ruang Terbuka Hijau,"13,401","0,0554813037","0,600","44,27","0,5628684345"
+PA417,Cigelam,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA418,Cigelam,Zona Sarana Pelayanan Umum,"1,071","0,004432852928","0,950","44,27","0,1147715017"
+PA419,Cigelam,Zona Perumahan,"27,334","0,1131628551","0,950","44,27","4,267790984"
+PA420,Cigelam,Zona Badan Jalan,"16,584","0,06865919414","0,700","44,27","2,379368158"
+PA421,Kadikaran,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA422,Kadikaran,Zona Badan Air,"0,265","0,0008168549976","0,500","44,27","0,004736695338"
+PA423,Kadikaran,Zona Kawasan Peruntukan Industri,"0,145","0,0004464398104","0,800","44,27","0,02272974922"
+PA424,Kadikaran,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA425,Kadikaran,Zona Perdagangan dan Jasa,"0,496","0,001528379484","0,950","44,27","0,06304751616"
+PA426,Kadikaran,Zona Perkantoran,"0,000",0,"0,950","44,27",0
+PA427,Kadikaran,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA428,Kadikaran,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA429,Kadikaran,Zona Pertanian,"122,225","0,3766017428","0,560","44,27","5,349516652"
+PA430,Kadikaran,Zona Peruntukan Lainnya,"1,031","0,00317817151","0,600","44,27","0,06284887636"
+PA431,Kadikaran,Zona Ruang Terbuka Hijau,"11,448","0,03527486795","0,600","44,27","0,3483381591"
+PA432,Kadikaran,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA433,Kadikaran,Zona Sarana Pelayanan Umum,"0,425","0,001309752361","0,950","44,27","0,04061753591"
+PA434,Kadikaran,Zona Perumahan,"23,152","0,07133603703","0,950","44,27","4,397916792"
+PA435,Kadikaran,Zona Badan Jalan,"5,531","0,01704162492","0,700","44,27","0,8300417967"
+PA436,Kepandean,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA437,Kepandean,Zona Badan Air,"0,000",0,"0,500","44,27",0
+PA438,Kepandean,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","44,27",0
+PA439,Kepandean,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA440,Kepandean,Zona Perdagangan dan Jasa,"0,000",0,"0,950","44,27",0
+PA441,Kepandean,Zona Perkantoran,"0,148","0,002292126759","0,950","44,27","0,01880563176"
+PA442,Kepandean,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA443,Kepandean,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA444,Kepandean,Zona Pertanian,"118,808","1,836195358","0,560","44,27","5,418171813"
+PA445,Kepandean,Zona Peruntukan Lainnya,"0,336","0,005190788548","0,600","44,27","0,01844690716"
+PA446,Kepandean,Zona Ruang Terbuka Hijau,"16,253","0,2511920397","0,600","44,27","0,6297253151"
+PA447,Kepandean,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA448,Kepandean,Zona Sarana Pelayanan Umum,"1,277","0,01974350206","0,950","44,27","0,1809786912"
+PA449,Kepandean,Zona Perumahan,"25,728","0,3976234417","0,950","44,27","3,962921345"
+PA450,Kepandean,Zona Badan Jalan,"3,353","0,0518133438","0,700","44,27","0,4562422479"
+PA451,Pamong,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA452,Pamong,Zona Badan Air,"0,000",0,"0,500","44,27",0
+PA453,Pamong,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","44,27",0
+PA454,Pamong,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA455,Pamong,Zona Perdagangan dan Jasa,"0,097","0,002554077681","0,950","44,27","0,0123254871"
+PA456,Pamong,Zona Perkantoran,"0,025","0,0006639277315","0,950","44,27","0,003612421427"
+PA457,Pamong,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA458,Pamong,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA459,Pamong,Zona Pertanian,"192,685","5,056750599","0,560","44,27","8,587374932"
+PA460,Pamong,Zona Peruntukan Lainnya,"0,450","0,01182261092","0,600","44,27","0,03134611451"
+PA461,Pamong,Zona Ruang Terbuka Hijau,"16,810","0,4411443282","0,600","44,27","0,6945359025"
+PA462,Pamong,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA463,Pamong,Zona Sarana Pelayanan Umum,"0,604","0,01585316218","0,950","44,27","0,07822269823"
+PA464,Pamong,Zona Perumahan,"19,340","0,5075532508","0,950","44,27","3,184038329"
+PA465,Pamong,Zona Badan Jalan,"4,380","0,1149496476","0,700","44,27","0,6587412788"
+PA466,Penggalang,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA467,Penggalang,Zona Badan Air,"0,000",0,"0,500","44,27",0
+PA468,Penggalang,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","44,27",0
+PA469,Penggalang,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA470,Penggalang,Zona Perdagangan dan Jasa,"0,000",0,"0,950","44,27",0
+PA471,Penggalang,Zona Perkantoran,"0,020","0,0001265755525","0,950","44,27","0,002676635813"
+PA472,Penggalang,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA473,Penggalang,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA474,Penggalang,Zona Pertanian,"269,230","1,728004333","0,560","44,27","11,51501203"
+PA475,Penggalang,Zona Peruntukan Lainnya,"1,586","0,01018029735","0,600","44,27","0,1123668812"
+PA476,Penggalang,Zona Ruang Terbuka Hijau,"15,620","0,1002563382","0,600","44,27","0,5136660099"
+PA477,Penggalang,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA478,Penggalang,Zona Sarana Pelayanan Umum,"0,410","0,002634230715","0,950","44,27","0,04530020927"
+PA479,Penggalang,Zona Perumahan,"26,119","0,1676425623","0,950","44,27","4,401757183"
+PA480,Penggalang,Zona Badan Jalan,"4,512","0,02895664509","0,700","44,27","0,6176207707"
+PA481,Pelawad,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA482,Pelawad,Zona Badan Air,"0,000",0,"0,500","44,27",0
+PA483,Pelawad,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","44,27",0
+PA484,Pelawad,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA485,Pelawad,Zona Perdagangan dan Jasa,"1,477","0,003953173364","0,950","44,27","0,1529031143"
+PA486,Pelawad,Zona Perkantoran,"0,072","0,0001930587807","0,950","44,27","0,009370356825"
+PA487,Pelawad,Zona Perkebunan Rakyat,"1,829","0,004893143704","0,800","44,27","0,08290234718"
+PA488,Pelawad,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA489,Pelawad,Zona Pertanian,"6,038","0,01615705869","0,560","44,27","0,3323380931"
+PA490,Pelawad,Zona Peruntukan Lainnya,"0,000",0,"0,600","44,27",0
+PA491,Pelawad,Zona Ruang Terbuka Hijau,"8,803","0,02355648507","0,600","44,27","0,3452917027"
+PA492,Pelawad,Zona Ruang Terbuka Non Hijau,"0,077","0,0002056079644","0,700","44,27","0,005631913362"
+PA493,Pelawad,Zona Sarana Pelayanan Umum,"0,323","0,0008654026006","0,950","44,27","0,03475857344"
+PA494,Pelawad,Zona Perumahan,"24,942","0,06674670259","0,950","44,27","4,019583651"
+PA495,Pelawad,Zona Badan Jalan,"1,547","0,004140845514","0,700","44,27","0,1979262067"
+PA496,Ranjeng,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA497,Ranjeng,Zona Badan Air,"0,686","0,002440765013","0,500","44,27","0,01258419865"
+PA498,Ranjeng,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","44,27",0
+PA499,Ranjeng,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA500,Ranjeng,Zona Perdagangan dan Jasa,"1,284","0,004566005498","0,950","44,27","0,1485851352"
+PA501,Ranjeng,Zona Perkantoran,"0,000",0,"0,950","44,27",0
+PA502,Ranjeng,Zona Perkebunan Rakyat,"0,441","0,001568568483","0,800","44,27","0,02061295887"
+PA503,Ranjeng,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA504,Ranjeng,Zona Pertanian,"48,845","0,1736873536","0,560","44,27","2,437534542"
+PA505,Ranjeng,Zona Peruntukan Lainnya,"0,000",0,"0,600","44,27",0
+PA506,Ranjeng,Zona Ruang Terbuka Hijau,"17,671","0,06283607774","0,600","44,27","0,5139819586"
+PA507,Ranjeng,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA508,Ranjeng,Zona Sarana Pelayanan Umum,"1,200","0,004265584405","0,950","44,27","0,1311883838"
+PA509,Ranjeng,Zona Perumahan,"70,041","0,2490547749","0,950","44,27","11,38073812"
+PA510,Ranjeng,Zona Badan Jalan,"8,217","0,02921972669","0,700","44,27","1,311837279"
+PA511,Cisait,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA512,Cisait,Zona Badan Air,"0,000",0,"0,500","44,27",0
+PA513,Cisait,Zona Kawasan Peruntukan Industri,"8,922","0,03073872914","0,800","44,27","1,341413131"
+PA514,Cisait,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA515,Cisait,Zona Perdagangan dan Jasa,"0,830","0,002860621045","0,950","44,27","0,0971516516"
+PA516,Cisait,Zona Perkantoran,"0,078","0,0002679787923","0,950","44,27","0,01079472432"
+PA517,Cisait,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA518,Cisait,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA519,Cisait,Zona Pertanian,"183,579","0,6325003793","0,560","44,27","8,726001624"
+PA520,Cisait,Zona Peruntukan Lainnya,"0,015","0,00005319894481","0,600","44,27","0,0009485416371"
+PA521,Cisait,Zona Ruang Terbuka Hijau,"72,828","0,2509224267","0,600","44,27","2,312423736"
+PA522,Cisait,Zona Ruang Terbuka Non Hijau,"0,230","0,0007916111421","0,700","44,27","0,01685583922"
+PA523,Cisait,Zona Sarana Pelayanan Umum,"3,446","0,01187293025","0,950","44,27","0,3788307194"
+PA524,Cisait,Zona Perumahan,"74,733","0,2574832844","0,950","44,27","12,12402183"
+PA525,Cisait,Zona Badan Jalan,"13,329","0,04592391965","0,700","44,27","1,956682743"
+PA526,Sentul,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA527,Sentul,Zona Badan Air,"0,726","0,001726773417","0,500","44,27","0,01591629322"
+PA528,Sentul,Zona Kawasan Peruntukan Industri,"24,694","0,05877200745","0,800","44,27","4,228908304"
+PA529,Sentul,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA530,Sentul,Zona Perdagangan dan Jasa,"2,648","0,006303073905","0,950","44,27","0,3125247289"
+PA531,Sentul,Zona Perkantoran,"0,090","0,000213241835","0,950","44,27","0,01272811431"
+PA532,Sentul,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA533,Sentul,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA534,Sentul,Zona Pertanian,"133,419","0,3175413733","0,560","44,27","6,143331344"
+PA535,Sentul,Zona Peruntukan Lainnya,"0,000",0,"0,600","44,27",0
+PA536,Sentul,Zona Ruang Terbuka Hijau,"53,185","0,1265815539","0,600","44,27","1,964508393"
+PA537,Sentul,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA538,Sentul,Zona Sarana Pelayanan Umum,"1,053","0,002507329147","0,950","44,27","0,1132822514"
+PA539,Sentul,Zona Perumahan,"70,261","0,1672235906","0,950","44,27","10,6350488"
+PA540,Sentul,Zona Badan Jalan,"20,397","0,04854655867","0,700","44,27","3,244847392"
+PA541,Kendayakan,Zona Pengelolaan Persampahan,"0,000",0,"0,500","44,27",0
+PA542,Kendayakan,Zona Badan Air,"0,049","0,0001350366604","0,500","44,27","0,001068231056"
+PA543,Kendayakan,Zona Kawasan Peruntukan Industri,"0,084","0,0002326838389","0,800","44,27","0,01126490974"
+PA544,Kendayakan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA545,Kendayakan,Zona Perdagangan dan Jasa,"5,879","0,01627734934","0,950","44,27","0,7305528534"
+PA546,Kendayakan,Zona Perkantoran,"0,544","0,001507375561","0,950","44,27","0,06542845359"
+PA547,Kendayakan,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA548,Kendayakan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","44,27",0
+PA549,Kendayakan,Zona Pertanian,"50,616","0,140141524","0,560","44,27","2,550116437"
+PA550,Kendayakan,Zona Peruntukan Lainnya,"0,000",0,"0,600","44,27",0
+PA551,Kendayakan,Zona Ruang Terbuka Hijau,"116,832","0,3234727703","0,600","44,27","3,894596601"
+PA552,Kendayakan,Zona Ruang Terbuka Non Hijau,"0,889","0,002461425061","0,700","44,27","0,05572926765"
+PA553,Kendayakan,Zona Sarana Pelayanan Umum,"2,686","0,007437783213","0,950","44,27","0,3082904501"
+PA554,Kendayakan,Zona Perumahan,"88,895","0,2461227157","0,950","44,27","15,61872555"
+PA555,Kendayakan,Zona Badan Jalan,"13,089","0,03623995467","0,700","44,27","1,768641914"
+PA556,Kragilan,Zona Pengelolaan Persampahan,"0,083","0,0003449209049","0,500","44,27","0,007160902104"
+PA557,Kragilan,Zona Badan Air,"10,728","0,044702187","0,500","44,27","0,2752138207"
+PA558,Kragilan,Zona Kawasan Peruntukan Industri,"188,415","0,785104784","0,800","44,27","28,80452678"
+PA559,Kragilan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","44,27",0
+PA560,Kragilan,Zona Perdagangan dan Jasa,"13,741","0,05725517779","0,950","44,27","2,067336653"
+PA561,Kragilan,Zona Perkantoran,"1,177","0,004903152148","0,950","44,27","0,1857931093"
+PA562,Kragilan,Zona Perkebunan Rakyat,"0,000",0,"0,800","44,27",0
+PA563,Kragilan,Zona Pertahanan dan Keamanan,"0,645","0,002687532238","0,700","44,27","0,0506812527"
+PA564,Kragilan,Zona Pertanian,"9,496","0,03956930951","0,560","44,27","0,4439292022"
+PA565,Kragilan,Zona Peruntukan Lainnya,"0,000",0,"0,600","44,27",0
+PA566,Kragilan,Zona Ruang Terbuka Hijau,"75,200","0,3133484254","0,600","44,27","2,468625094"
+PA567,Kragilan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","44,27",0
+PA568,Kragilan,Zona Sarana Pelayanan Umum,"2,373","0,009890089493","0,950","44,27","0,260268957"
+PA569,Kragilan,Zona Perumahan,"45,197","0,188331534","0,950","44,27","7,134631703"
+PA570,Kragilan,Zona Badan Jalan,"20,059","0,08358314538","0,700","44,27","3,089101637"
+PA571,Kaserangan,Zona Pengelolaan Persampahan,"1,690","0,004457276353","0,500","51,19","0,2031477438"
+PA572,Kaserangan,Zona Badan Air,"50,868","0,1341655341","0,500","51,19","1,888304204"
+PA573,Kaserangan,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","51,19",0
+PA574,Kaserangan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA575,Kaserangan,Zona Perdagangan dan Jasa,"1,139","0,003005264781","0,950","51,19","0,169365623"
+PA576,Kaserangan,Zona Perkantoran,"2,123","0,005598646484","0,950","51,19","0,4377884421"
+PA577,Kaserangan,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA578,Kaserangan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA579,Kaserangan,Zona Pertanian,"82,050","0,2164087528","0,560","51,19","5,745176453"
+PA580,Kaserangan,Zona Peruntukan Lainnya,"0,000",0,"0,600","51,19",0
+PA581,Kaserangan,Zona Ruang Terbuka Hijau,"197,072","0,519778926","0,600","51,19","9,224269002"
+PA582,Kaserangan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA583,Kaserangan,Zona Sarana Pelayanan Umum,"0,333","0,0008780640124","0,950","51,19","0,05283996902"
+PA584,Kaserangan,Zona Perumahan,"25,906","0,06832783633","0,950","51,19","5,523275986"
+PA585,Kaserangan,Zona Badan Jalan,"17,964","0,04737969914","0,700","51,19","3,914047965"
+PA586,Beberan,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA587,Beberan,Zona Badan Air,"0,122","0,0004829788916","0,500","51,19","0,0032756698"
+PA588,Beberan,Zona Kawasan Peruntukan Industri,"17,249","0,06838924069","0,800","51,19","4,072855159"
+PA589,Beberan,Zona Pembangkitan Tenaga Listrik,"17,249","0,06838924069","0,800","51,19","4,004610496"
+PA590,Beberan,Zona Perdagangan dan Jasa,"0,213","0,0008462239578","0,950","51,19","0,031255899"
+PA591,Beberan,Zona Perkantoran,"0,000",0,"0,950","51,19",0
+PA592,Beberan,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA593,Beberan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA594,Beberan,Zona Pertanian,"137,405","0,5447890418","0,560","51,19","9,706352619"
+PA595,Beberan,Zona Peruntukan Lainnya,"14,531","0,05761331353","0,600","51,19","1,482819111"
+PA596,Beberan,Zona Ruang Terbuka Hijau,"32,840","0,1302078037","0,600","51,19","1,425231405"
+PA597,Beberan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA598,Beberan,Zona Sarana Pelayanan Umum,"0,696","0,002761238313","0,950","51,19","0,09550426638"
+PA599,Beberan,Zona Perumahan,"24,309","0,09638271147","0,950","51,19","5,066370543"
+PA600,Beberan,Zona Badan Jalan,"7,601","0,03013820703","0,700","51,19","1,517687277"
+PA601,Citerep,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA602,Citerep,Zona Badan Air,"0,000",0,"0,500","51,19",0
+PA603,Citerep,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","51,19",0
+PA604,Citerep,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA605,Citerep,Zona Perdagangan dan Jasa,"9,282","0,064379576","0,950","51,19","1,882038126"
+PA606,Citerep,Zona Perkantoran,"1,577","0,01093907235","0,950","51,19","0,4201197933"
+PA607,Citerep,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA608,Citerep,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA609,Citerep,Zona Pertanian,"50,846","0,3526793869","0,560","51,19","3,32572569"
+PA610,Citerep,Zona Peruntukan Lainnya,"0,642","0,004452081445","0,600","51,19","0,05007879429"
+PA611,Citerep,Zona Ruang Terbuka Hijau,"26,791","0,1858283575","0,600","51,19","1,253098502"
+PA612,Citerep,Zona Ruang Terbuka Non Hijau,"0,022","0,0001545785437","0,700","51,19","0,002270021421"
+PA613,Citerep,Zona Sarana Pelayanan Umum,"3,926","0,0272302252","0,950","51,19","0,7446621089"
+PA614,Citerep,Zona Perumahan,"43,304","0,300370378","0,950","51,19","10,3377038"
+PA615,Citerep,Zona Badan Jalan,"7,780","0,05396634403","0,700","51,19","1,728119981"
+PA616,Gosara,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA617,Gosara,Zona Badan Air,"1,847","0,008323334726","0,500","51,19","0,0547193044"
+PA618,Gosara,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","51,19",0
+PA619,Gosara,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA620,Gosara,Zona Perdagangan dan Jasa,"0,359","0,001618528423","0,950","51,19","0,07127815133"
+PA621,Gosara,Zona Perkantoran,"0,032","0,0001451044741","0,950","51,19","0,005501776206"
+PA622,Gosara,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA623,Gosara,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA624,Gosara,Zona Pertanian,"189,588","0,854134278","0,560","51,19","11,72687341"
+PA625,Gosara,Zona Peruntukan Lainnya,"0,000",0,"0,600","51,19",0
+PA626,Gosara,Zona Ruang Terbuka Hijau,"13,459","0,06063430833","0,600","51,19","0,7299907451"
+PA627,Gosara,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA628,Gosara,Zona Sarana Pelayanan Umum,"0,383","0,001727451383","0,950","51,19","0,05157224902"
+PA629,Gosara,Zona Perumahan,"13,921","0,06271899042","0,950","51,19","3,301441614"
+PA630,Gosara,Zona Badan Jalan,"2,375","0,01069800425","0,700","51,19","0,5089392289"
+PA631,Bumijaya,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA632,Bumijaya,Zona Badan Air,"0,507","0,003908480033","0,500","51,19","0,01386651004"
+PA633,Bumijaya,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","51,19",0
+PA634,Bumijaya,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA635,Bumijaya,Zona Perdagangan dan Jasa,"0,602","0,004643745393","0,950","51,19","0,1027641079"
+PA636,Bumijaya,Zona Perkantoran,"0,602","0,004643745393","0,950","51,19","0,1260153057"
+PA637,Bumijaya,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA638,Bumijaya,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA639,Bumijaya,Zona Pertanian,"98,745","0,7615114696","0,560","51,19","6,589067794"
+PA640,Bumijaya,Zona Peruntukan Lainnya,"0,000",0,"0,600","51,19",0
+PA641,Bumijaya,Zona Ruang Terbuka Hijau,"8,626","0,06652457919","0,600","51,19","0,3569963218"
+PA642,Bumijaya,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA643,Bumijaya,Zona Sarana Pelayanan Umum,"0,421","0,003249346827","0,950","51,19","0,06718348046"
+PA644,Bumijaya,Zona Perumahan,"18,559","0,1431281818","0,950","51,19","3,92461061"
+PA645,Bumijaya,Zona Badan Jalan,"1,607","0,01239045179","0,700","51,19","0,3342013696"
+PA646,Pulo,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA647,Pulo,Zona Badan Air,"1,686","0,003036235902","0,500","51,19","0,05375518912"
+PA648,Pulo,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","51,19",0
+PA649,Pulo,Zona Pembangkitan Tenaga Listrik,"1,686","0,003036235902","0,800","51,19","0,2446774045"
+PA650,Pulo,Zona Perdagangan dan Jasa,"0,286","0,0005157619217","0,950","51,19","0,04599767333"
+PA651,Pulo,Zona Perkantoran,"0,077","0,0001389566045","0,950","51,19","0,01560075444"
+PA652,Pulo,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA653,Pulo,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA654,Pulo,Zona Pertanian,"414,571","0,7464553943","0,560","51,19","28,22132463"
+PA655,Pulo,Zona Peruntukan Lainnya,"1,000","0,00180001799","0,600","51,19","0,07792568171"
+PA656,Pulo,Zona Ruang Terbuka Hijau,"61,785","0,1112464108","0,600","51,19","2,824411276"
+PA657,Pulo,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA658,Pulo,Zona Sarana Pelayanan Umum,"4,124","0,007424967686","0,950","51,19","0,6425547393"
+PA659,Pulo,Zona Perumahan,"61,708","0,111108954","0,950","51,19","12,4402165"
+PA660,Pulo,Zona Badan Jalan,"8,462","0,01523706484","0,700","51,19","1,664116983"
+PA661,Singamerta,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA662,Singamerta,Zona Badan Air,"0,000",0,"0,500","51,19",0
+PA663,Singamerta,Zona Kawasan Peruntukan Industri,"0,162","0,001084016651","0,800","51,19","0,03185838488"
+PA664,Singamerta,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA665,Singamerta,Zona Perdagangan dan Jasa,"1,418","0,009491087505","0,950","51,19","0,2167474779"
+PA666,Singamerta,Zona Perkantoran,"0,368","0,002461833005","0,950","51,19","0,07856429697"
+PA667,Singamerta,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA668,Singamerta,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA669,Singamerta,Zona Pertanian,"106,519","0,7128472275","0,560","51,19","6,153157542"
+PA670,Singamerta,Zona Peruntukan Lainnya,"4,904","0,03281652565","0,600","51,19","0,5013522549"
+PA671,Singamerta,Zona Ruang Terbuka Hijau,"21,230","0,1420763879","0,600","51,19","1,072364107"
+PA672,Singamerta,Zona Ruang Terbuka Non Hijau,"0,562","0,0037607479","0,700","51,19","0,05581646322"
+PA673,Singamerta,Zona Sarana Pelayanan Umum,"1,836","0,0122899345","0,950","51,19","0,3035057261"
+PA674,Singamerta,Zona Perumahan,"29,387","0,1966653638","0,950","51,19","6,390054812"
+PA675,Singamerta,Zona Badan Jalan,"8,626","0,05772808949","0,700","51,19","1,7852855"
+PA676,Ciruas,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA677,Ciruas,Zona Badan Air,"0,000",0,"0,500","51,19",0
+PA678,Ciruas,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","51,19",0
+PA679,Ciruas,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA680,Ciruas,Zona Perdagangan dan Jasa,"0,109","0,0006682659307","0,950","51,19","0,01874933066"
+PA681,Ciruas,Zona Perkantoran,"0,039","0,0002407740664","0,950","51,19","0,007622617638"
+PA682,Ciruas,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA683,Ciruas,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA684,Ciruas,Zona Pertanian,"63,861","0,3903848226","0,560","51,19","4,731409663"
+PA685,Ciruas,Zona Peruntukan Lainnya,"0,000",0,"0,600","51,19",0
+PA686,Ciruas,Zona Ruang Terbuka Hijau,"1,718","0,01050220877","0,600","51,19","0,06468510387"
+PA687,Ciruas,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA688,Ciruas,Zona Sarana Pelayanan Umum,"0,205","0,001256113334","0,950","51,19","0,03164223529"
+PA689,Ciruas,Zona Perumahan,"13,951","0,08528490952","0,950","51,19","3,007991116"
+PA690,Ciruas,Zona Badan Jalan,"1,165","0,007122939481","0,700","51,19","0,2061329212"
+PA691,Cigelam,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA692,Cigelam,Zona Badan Air,"0,000",0,"0,500","51,19",0
+PA693,Cigelam,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","51,19",0
+PA694,Cigelam,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA695,Cigelam,Zona Perdagangan dan Jasa,"0,000",0,"0,950","51,19",0
+PA696,Cigelam,Zona Perkantoran,"0,000",0,"0,950","51,19",0
+PA697,Cigelam,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA698,Cigelam,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA699,Cigelam,Zona Pertanian,"445,100","1,842711646","0,560","51,19","30,60731673"
+PA700,Cigelam,Zona Peruntukan Lainnya,"0,730","0,00302126748","0,600","51,19","0,06004476101"
+PA701,Cigelam,Zona Ruang Terbuka Hijau,"13,401","0,0554813037","0,600","51,19","0,7342542258"
+PA702,Cigelam,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA703,Cigelam,Zona Sarana Pelayanan Umum,"1,071","0,004432852928","0,950","51,19","0,1305678071"
+PA704,Cigelam,Zona Perumahan,"27,334","0,1131628551","0,950","51,19","5,849120462"
+PA705,Cigelam,Zona Badan Jalan,"16,584","0,06865919414","0,700","51,19","3,205003702"
+PA706,Kadikaran,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA707,Kadikaran,Zona Badan Air,"0,265","0,0008168549976","0,500","51,19","0,006040537315"
+PA708,Kadikaran,Zona Kawasan Peruntukan Industri,"0,145","0,0004464398104","0,800","51,19","0,02407511379"
+PA709,Kadikaran,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA710,Kadikaran,Zona Perdagangan dan Jasa,"0,496","0,001528379484","0,950","51,19","0,08950614359"
+PA711,Kadikaran,Zona Perkantoran,"0,000",0,"0,950","51,19",0
+PA712,Kadikaran,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA713,Kadikaran,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA714,Kadikaran,Zona Pertanian,"122,225","0,3766017428","0,560","51,19","9,289968221"
+PA715,Kadikaran,Zona Peruntukan Lainnya,"1,031","0,00317817151","0,600","51,19","0,07604648795"
+PA716,Kadikaran,Zona Ruang Terbuka Hijau,"11,448","0,03527486795","0,600","51,19","0,4809595642"
+PA717,Kadikaran,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA718,Kadikaran,Zona Sarana Pelayanan Umum,"0,425","0,001309752361","0,950","51,19","0,07403722262"
+PA719,Kadikaran,Zona Perumahan,"23,152","0,07133603703","0,950","51,19","4,632870519"
+PA720,Kadikaran,Zona Badan Jalan,"5,531","0,01704162492","0,700","51,19","0,9817841763"
+PA721,Kepandean,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA722,Kepandean,Zona Badan Air,"0,000",0,"0,500","51,19",0
+PA723,Kepandean,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","51,19",0
+PA724,Kepandean,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA725,Kepandean,Zona Perdagangan dan Jasa,"0,000",0,"0,950","51,19",0
+PA726,Kepandean,Zona Perkantoran,"0,148","0,002292126759","0,950","51,19","0,03027294176"
+PA727,Kepandean,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA728,Kepandean,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA729,Kepandean,Zona Pertanian,"118,808","1,836195358","0,560","51,19","8,504787269"
+PA730,Kepandean,Zona Peruntukan Lainnya,"0,336","0,005190788548","0,600","51,19","0,02827125858"
+PA731,Kepandean,Zona Ruang Terbuka Hijau,"16,253","0,2511920397","0,600","51,19","0,7513974345"
+PA732,Kepandean,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA733,Kepandean,Zona Sarana Pelayanan Umum,"1,277","0,01974350206","0,950","51,19","0,2469121072"
+PA734,Kepandean,Zona Perumahan,"25,728","0,3976234417","0,950","51,19","6,037342289"
+PA735,Kepandean,Zona Badan Jalan,"3,353","0,0518133438","0,700","51,19","0,6479958899"
+PA736,Pamong,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA737,Pamong,Zona Badan Air,"0,000",0,"0,500","51,19",0
+PA738,Pamong,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","51,19",0
+PA739,Pamong,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA740,Pamong,Zona Perdagangan dan Jasa,"0,097","0,002554077681","0,950","51,19","0,01703512735"
+PA741,Pamong,Zona Perkantoran,"0,025","0,0006639277315","0,950","51,19","0,004885907167"
+PA742,Pamong,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA743,Pamong,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA744,Pamong,Zona Pertanian,"192,685","5,056750599","0,560","51,19","12,2742125"
+PA745,Pamong,Zona Peruntukan Lainnya,"0,450","0,01182261092","0,600","51,19","0,04121759023"
+PA746,Pamong,Zona Ruang Terbuka Hijau,"16,810","0,4411443282","0,600","51,19","0,7093144963"
+PA747,Pamong,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA748,Pamong,Zona Sarana Pelayanan Umum,"0,604","0,01585316218","0,950","51,19","0,09718597423"
+PA749,Pamong,Zona Perumahan,"19,340","0,5075532508","0,950","51,19","4,573240278"
+PA750,Pamong,Zona Badan Jalan,"4,380","0,1149496476","0,700","51,19","0,8065915308"
+PA751,Penggalang,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA752,Penggalang,Zona Badan Air,"0,000",0,"0,500","51,19",0
+PA753,Penggalang,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","51,19",0
+PA754,Penggalang,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA755,Penggalang,Zona Perdagangan dan Jasa,"0,000",0,"0,950","51,19",0
+PA756,Penggalang,Zona Perkantoran,"0,020","0,0001265755525","0,950","51,19","0,00367407529"
+PA757,Penggalang,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA758,Penggalang,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA759,Penggalang,Zona Pertanian,"269,230","1,728004333","0,560","51,19","16,3986213"
+PA760,Penggalang,Zona Peruntukan Lainnya,"1,586","0,01018029735","0,600","51,19","0,1539423131"
+PA761,Penggalang,Zona Ruang Terbuka Hijau,"15,620","0,1002563382","0,600","51,19","0,8400641213"
+PA762,Penggalang,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA763,Penggalang,Zona Sarana Pelayanan Umum,"0,410","0,002634230715","0,950","51,19","0,07136511152"
+PA764,Penggalang,Zona Perumahan,"26,119","0,1676425623","0,950","51,19","5,704854524"
+PA765,Penggalang,Zona Badan Jalan,"4,512","0,02895664509","0,700","51,19","0,8910671257"
+PA766,Pelawad,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA767,Pelawad,Zona Badan Air,"0,000",0,"0,500","51,19",0
+PA768,Pelawad,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","51,19",0
+PA769,Pelawad,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA770,Pelawad,Zona Perdagangan dan Jasa,"1,477","0,003953173364","0,950","51,19","0,2218967326"
+PA771,Pelawad,Zona Perkantoran,"0,072","0,0001930587807","0,950","51,19","0,01312033744"
+PA772,Pelawad,Zona Perkebunan Rakyat,"1,829","0,004893143704","0,800","51,19","0,1091674291"
+PA773,Pelawad,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA774,Pelawad,Zona Pertanian,"6,038","0,01615705869","0,560","51,19","0,3937117277"
+PA775,Pelawad,Zona Peruntukan Lainnya,"0,000",0,"0,600","51,19",0
+PA776,Pelawad,Zona Ruang Terbuka Hijau,"8,803","0,02355648507","0,600","51,19","0,3842161343"
+PA777,Pelawad,Zona Ruang Terbuka Non Hijau,"0,077","0,0002056079644","0,700","51,19","0,00844564231"
+PA778,Pelawad,Zona Sarana Pelayanan Umum,"0,323","0,0008654026006","0,950","51,19","0,04413574589"
+PA779,Pelawad,Zona Perumahan,"24,942","0,06674670259","0,950","51,19","6,561718519"
+PA780,Pelawad,Zona Badan Jalan,"1,547","0,004140845514","0,700","51,19","0,2333869246"
+PA781,Ranjeng,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA782,Ranjeng,Zona Badan Air,"0,686","0,002440765013","0,500","51,19","0,01603039476"
+PA783,Ranjeng,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","51,19",0
+PA784,Ranjeng,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA785,Ranjeng,Zona Perdagangan dan Jasa,"1,284","0,004566005498","0,950","51,19","0,1998672497"
+PA786,Ranjeng,Zona Perkantoran,"0,000",0,"0,950","51,19",0
+PA787,Ranjeng,Zona Perkebunan Rakyat,"0,441","0,001568568483","0,800","51,19","0,03445155606"
+PA788,Ranjeng,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA789,Ranjeng,Zona Pertanian,"48,845","0,1736873536","0,560","51,19","3,198719792"
+PA790,Ranjeng,Zona Peruntukan Lainnya,"0,000",0,"0,600","51,19",0
+PA791,Ranjeng,Zona Ruang Terbuka Hijau,"17,671","0,06283607774","0,600","51,19","0,9628403407"
+PA792,Ranjeng,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA793,Ranjeng,Zona Sarana Pelayanan Umum,"1,200","0,004265584405","0,950","51,19","0,1805999741"
+PA794,Ranjeng,Zona Perumahan,"70,041","0,2490547749","0,950","51,19","16,91510594"
+PA795,Ranjeng,Zona Badan Jalan,"8,217","0,02921972669","0,700","51,19","1,721217624"
+PA796,Cisait,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA797,Cisait,Zona Badan Air,"0,000",0,"0,500","51,19",0
+PA798,Cisait,Zona Kawasan Peruntukan Industri,"8,922","0,03073872914","0,800","51,19","1,785990481"
+PA799,Cisait,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA800,Cisait,Zona Perdagangan dan Jasa,"0,830","0,002860621045","0,950","51,19","0,1341185457"
+PA801,Cisait,Zona Perkantoran,"0,078","0,0002679787923","0,950","51,19","0,01792831182"
+PA802,Cisait,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA803,Cisait,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA804,Cisait,Zona Pertanian,"183,579","0,6325003793","0,560","51,19","11,84665552"
+PA805,Cisait,Zona Peruntukan Lainnya,"0,015","0,00005319894481","0,600","51,19","0,001228283215"
+PA806,Cisait,Zona Ruang Terbuka Hijau,"72,828","0,2509224267","0,600","51,19","4,072887974"
+PA807,Cisait,Zona Ruang Terbuka Non Hijau,"0,230","0,0007916111421","0,700","51,19","0,02252465881"
+PA808,Cisait,Zona Sarana Pelayanan Umum,"3,446","0,01187293025","0,950","51,19","0,7205861569"
+PA809,Cisait,Zona Perumahan,"74,733","0,2574832844","0,950","51,19","18,54586709"
+PA810,Cisait,Zona Badan Jalan,"13,329","0,04592391965","0,700","51,19","2,804448197"
+PA811,Sentul,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA812,Sentul,Zona Badan Air,"0,726","0,001726773417","0,500","51,19","0,02109429769"
+PA813,Sentul,Zona Kawasan Peruntukan Industri,"24,694","0,05877200745","0,800","51,19","4,817377051"
+PA814,Sentul,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA815,Sentul,Zona Perdagangan dan Jasa,"2,648","0,006303073905","0,950","51,19","0,4362675471"
+PA816,Sentul,Zona Perkantoran,"0,090","0,000213241835","0,950","51,19","0,0186456821"
+PA817,Sentul,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA818,Sentul,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA819,Sentul,Zona Pertanian,"133,419","0,3175413733","0,560","51,19","8,869899426"
+PA820,Sentul,Zona Peruntukan Lainnya,"0,000",0,"0,600","51,19",0
+PA821,Sentul,Zona Ruang Terbuka Hijau,"53,185","0,1265815539","0,600","51,19","2,405215829"
+PA822,Sentul,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA823,Sentul,Zona Sarana Pelayanan Umum,"1,053","0,002507329147","0,950","51,19","0,1701587143"
+PA824,Sentul,Zona Perumahan,"70,261","0,1672235906","0,950","51,19","15,9040849"
+PA825,Sentul,Zona Badan Jalan,"20,397","0,04854655867","0,700","51,19","4,738208556"
+PA826,Kendayakan,Zona Pengelolaan Persampahan,"0,000",0,"0,500","51,19",0
+PA827,Kendayakan,Zona Badan Air,"0,049","0,0001350366604","0,500","51,19","0,001242750261"
+PA828,Kendayakan,Zona Kawasan Peruntukan Industri,"0,084","0,0002326838389","0,800","51,19","0,0168287468"
+PA829,Kendayakan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA830,Kendayakan,Zona Perdagangan dan Jasa,"5,879","0,01627734934","0,950","51,19","1,235340106"
+PA831,Kendayakan,Zona Perkantoran,"0,544","0,001507375561","0,950","51,19","0,1218546557"
+PA832,Kendayakan,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA833,Kendayakan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","51,19",0
+PA834,Kendayakan,Zona Pertanian,"50,616","0,140141524","0,560","51,19","3,086852638"
+PA835,Kendayakan,Zona Peruntukan Lainnya,"0,000",0,"0,600","51,19",0
+PA836,Kendayakan,Zona Ruang Terbuka Hijau,"116,832","0,3234727703","0,600","51,19","6,129266273"
+PA837,Kendayakan,Zona Ruang Terbuka Non Hijau,"0,889","0,002461425061","0,700","51,19","0,09216252052"
+PA838,Kendayakan,Zona Sarana Pelayanan Umum,"2,686","0,007437783213","0,950","51,19","0,4261836987"
+PA839,Kendayakan,Zona Perumahan,"88,895","0,2461227157","0,950","51,19","21,21233546"
+PA840,Kendayakan,Zona Badan Jalan,"13,089","0,03623995467","0,700","51,19","2,504755859"
+PA841,Kragilan,Zona Pengelolaan Persampahan,"0,083","0,0003449209049","0,500","51,19","0,009215140505"
+PA842,Kragilan,Zona Badan Air,"10,728","0,044702187","0,500","51,19","0,3168225613"
+PA843,Kragilan,Zona Kawasan Peruntukan Industri,"188,415","0,785104784","0,800","51,19","47,16895842"
+PA844,Kragilan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","51,19",0
+PA845,Kragilan,Zona Perdagangan dan Jasa,"13,741","0,05725517779","0,950","51,19","2,863740526"
+PA846,Kragilan,Zona Perkantoran,"1,177","0,004903152148","0,950","51,19","0,2493742388"
+PA847,Kragilan,Zona Perkebunan Rakyat,"0,000",0,"0,800","51,19",0
+PA848,Kragilan,Zona Pertahanan dan Keamanan,"0,645","0,002687532238","0,700","51,19","0,06516905714"
+PA849,Kragilan,Zona Pertanian,"9,496","0,03956930951","0,560","51,19","0,5801717639"
+PA850,Kragilan,Zona Peruntukan Lainnya,"0,000",0,"0,600","51,19",0
+PA851,Kragilan,Zona Ruang Terbuka Hijau,"75,200","0,3133484254","0,600","51,19","2,620124519"
+PA852,Kragilan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","51,19",0
+PA853,Kragilan,Zona Sarana Pelayanan Umum,"2,373","0,009890089493","0,950","51,19","0,3238204406"
+PA854,Kragilan,Zona Perumahan,"45,197","0,188331534","0,950","51,19","10,19543116"
+PA855,Kragilan,Zona Badan Jalan,"20,059","0,08358314538","0,700","51,19","3,854273454"
+PA856,Kaserangan,Zona Pengelolaan Persampahan,"1,690","0,004457276353","0,500","54,78","0,2121840615"
+PA857,Kaserangan,Zona Badan Air,"50,868","0,1341655341","0,500","54,78","1,810487443"
+PA858,Kaserangan,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","54,78",0
+PA859,Kaserangan,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA860,Kaserangan,Zona Perdagangan dan Jasa,"1,139","0,003005264781","0,950","54,78","0,2417889337"
+PA861,Kaserangan,Zona Perkantoran,"2,123","0,005598646484","0,950","54,78","0,5356040521"
+PA862,Kaserangan,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA863,Kaserangan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA864,Kaserangan,Zona Pertanian,"82,050","0,2164087528","0,560","54,78","7,266772786"
+PA865,Kaserangan,Zona Peruntukan Lainnya,"0,000",0,"0,600","54,78",0
+PA866,Kaserangan,Zona Ruang Terbuka Hijau,"197,072","0,519778926","0,600","54,78","15,65131196"
+PA867,Kaserangan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA868,Kaserangan,Zona Sarana Pelayanan Umum,"0,333","0,0008780640124","0,950","54,78","0,07535562765"
+PA869,Kaserangan,Zona Perumahan,"25,906","0,06832783633","0,950","54,78","9,190237917"
+PA870,Kaserangan,Zona Badan Jalan,"17,964","0,04737969914","0,700","54,78","5,294823401"
+PA871,Beberan,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA872,Beberan,Zona Badan Air,"0,122","0,0004829788916","0,500","54,78","0,005518188264"
+PA873,Beberan,Zona Kawasan Peruntukan Industri,"17,249","0,06838924069","0,800","54,78","5,372208856"
+PA874,Beberan,Zona Pembangkitan Tenaga Listrik,"17,249","0,06838924069","0,800","54,78","5,051408706"
+PA875,Beberan,Zona Perdagangan dan Jasa,"0,213","0,0008462239578","0,950","54,78","0,05484504753"
+PA876,Beberan,Zona Perkantoran,"0,000",0,"0,950","54,78",0
+PA877,Beberan,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA878,Beberan,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA879,Beberan,Zona Pertanian,"137,405","0,5447890418","0,560","54,78","12,44573959"
+PA880,Beberan,Zona Peruntukan Lainnya,"14,531","0,05761331353","0,600","54,78","1,971719891"
+PA881,Beberan,Zona Ruang Terbuka Hijau,"32,840","0,1302078037","0,600","54,78","2,614870249"
+PA882,Beberan,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA883,Beberan,Zona Sarana Pelayanan Umum,"0,696","0,002761238313","0,950","54,78","0,1563662236"
+PA884,Beberan,Zona Perumahan,"24,309","0,09638271147","0,950","54,78","7,54426208"
+PA885,Beberan,Zona Badan Jalan,"7,601","0,03013820703","0,700","54,78","2,106303992"
+PA886,Citerep,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA887,Citerep,Zona Badan Air,"0,000",0,"0,500","54,78",0
+PA888,Citerep,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","54,78",0
+PA889,Citerep,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA890,Citerep,Zona Perdagangan dan Jasa,"9,282","0,064379576","0,950","54,78","2,583021012"
+PA891,Citerep,Zona Perkantoran,"1,577","0,01093907235","0,950","54,78","0,4855394828"
+PA892,Citerep,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA893,Citerep,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA894,Citerep,Zona Pertanian,"50,846","0,3526793869","0,560","54,78","4,756041977"
+PA895,Citerep,Zona Peruntukan Lainnya,"0,642","0,004452081445","0,600","54,78","0,07631550159"
+PA896,Citerep,Zona Ruang Terbuka Hijau,"26,791","0,1858283575","0,600","54,78","1,800477219"
+PA897,Citerep,Zona Ruang Terbuka Non Hijau,"0,022","0,0001545785437","0,700","54,78","0,002739310018"
+PA898,Citerep,Zona Sarana Pelayanan Umum,"3,926","0,0272302252","0,950","54,78","1,153824098"
+PA899,Citerep,Zona Perumahan,"43,304","0,300370378","0,950","54,78","13,86396279"
+PA900,Citerep,Zona Badan Jalan,"7,780","0,05396634403","0,700","54,78","2,144886875"
+PA901,Gosara,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA902,Gosara,Zona Badan Air,"1,847","0,008323334726","0,500","54,78","0,07919732492"
+PA903,Gosara,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","54,78",0
+PA904,Gosara,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA905,Gosara,Zona Perdagangan dan Jasa,"0,359","0,001618528423","0,950","54,78","0,08977965207"
+PA906,Gosara,Zona Perkantoran,"0,032","0,0001451044741","0,950","54,78","0,007809948216"
+PA907,Gosara,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA908,Gosara,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA909,Gosara,Zona Pertanian,"189,588","0,854134278","0,560","54,78","17,32124703"
+PA910,Gosara,Zona Peruntukan Lainnya,"0,000",0,"0,600","54,78",0
+PA911,Gosara,Zona Ruang Terbuka Hijau,"13,459","0,06063430833","0,600","54,78","0,8781241575"
+PA912,Gosara,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA913,Gosara,Zona Sarana Pelayanan Umum,"0,383","0,001727451383","0,950","54,78","0,08981467972"
+PA914,Gosara,Zona Perumahan,"13,921","0,06271899042","0,950","54,78","4,677027503"
+PA915,Gosara,Zona Badan Jalan,"2,375","0,01069800425","0,700","54,78","0,6981816005"
+PA916,Bumijaya,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA917,Bumijaya,Zona Badan Air,"0,507","0,003908480033","0,500","54,78","0,01568310603"
+PA918,Bumijaya,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","54,78",0
+PA919,Bumijaya,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA920,Bumijaya,Zona Perdagangan dan Jasa,"0,602","0,004643745393","0,950","54,78","0,1527351993"
+PA921,Bumijaya,Zona Perkantoran,"0,602","0,004643745393","0,950","54,78","0,1635613287"
+PA922,Bumijaya,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA923,Bumijaya,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA924,Bumijaya,Zona Pertanian,"98,745","0,7615114696","0,560","54,78","9,14899329"
+PA925,Bumijaya,Zona Peruntukan Lainnya,"0,000",0,"0,600","54,78",0
+PA926,Bumijaya,Zona Ruang Terbuka Hijau,"8,626","0,06652457919","0,600","54,78","0,6515919626"
+PA927,Bumijaya,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA928,Bumijaya,Zona Sarana Pelayanan Umum,"0,421","0,003249346827","0,950","54,78","0,1029556547"
+PA929,Bumijaya,Zona Perumahan,"18,559","0,1431281818","0,950","54,78","5,756196606"
+PA930,Bumijaya,Zona Badan Jalan,"1,607","0,01239045179","0,700","54,78","0,4453967327"
+PA931,Pulo,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA932,Pulo,Zona Badan Air,"1,686","0,003036235902","0,500","54,78","0,07332669384"
+PA933,Pulo,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","54,78",0
+PA934,Pulo,Zona Pembangkitan Tenaga Listrik,"1,686","0,003036235902","0,800","54,78","0,4496525972"
+PA935,Pulo,Zona Perdagangan dan Jasa,"0,286","0,0005157619217","0,950","54,78","0,07815507671"
+PA936,Pulo,Zona Perkantoran,"0,077","0,0001389566045","0,950","54,78","0,02204313133"
+PA937,Pulo,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA938,Pulo,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA939,Pulo,Zona Pertanian,"414,571","0,7464553943","0,560","54,78","41,40213931"
+PA940,Pulo,Zona Peruntukan Lainnya,"1,000","0,00180001799","0,600","54,78","0,1107823055"
+PA941,Pulo,Zona Ruang Terbuka Hijau,"61,785","0,1112464108","0,600","54,78","3,962602261"
+PA942,Pulo,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA943,Pulo,Zona Sarana Pelayanan Umum,"4,124","0,007424967686","0,950","54,78","0,8715870883"
+PA944,Pulo,Zona Perumahan,"61,708","0,111108954","0,950","54,78","19,47698155"
+PA945,Pulo,Zona Badan Jalan,"8,462","0,01523706484","0,700","54,78","2,696722003"
+PA946,Singamerta,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA947,Singamerta,Zona Badan Air,"0,000",0,"0,500","54,78",0
+PA948,Singamerta,Zona Kawasan Peruntukan Industri,"0,162","0,001084016651","0,800","54,78","0,03760643735"
+PA949,Singamerta,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA950,Singamerta,Zona Perdagangan dan Jasa,"1,418","0,009491087505","0,950","54,78","0,3680005281"
+PA951,Singamerta,Zona Perkantoran,"0,368","0,002461833005","0,950","54,78","0,1115359819"
+PA952,Singamerta,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA953,Singamerta,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA954,Singamerta,Zona Pertanian,"106,519","0,7128472275","0,560","54,78","11,06734087"
+PA955,Singamerta,Zona Peruntukan Lainnya,"4,904","0,03281652565","0,600","54,78","0,6284989249"
+PA956,Singamerta,Zona Ruang Terbuka Hijau,"21,230","0,1420763879","0,600","54,78","1,371337864"
+PA957,Singamerta,Zona Ruang Terbuka Non Hijau,"0,562","0,0037607479","0,700","54,78","0,08091719053"
+PA958,Singamerta,Zona Sarana Pelayanan Umum,"1,836","0,0122899345","0,950","54,78","0,488621152"
+PA959,Singamerta,Zona Perumahan,"29,387","0,1966653638","0,950","54,78","9,420268857"
+PA960,Singamerta,Zona Badan Jalan,"8,626","0,05772808949","0,700","54,78","2,320980651"
+PA961,Ciruas,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA962,Ciruas,Zona Badan Air,"0,000",0,"0,500","54,78",0
+PA963,Ciruas,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","54,78",0
+PA964,Ciruas,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA965,Ciruas,Zona Perdagangan dan Jasa,"0,109","0,0006682659307","0,950","54,78","0,02732451354"
+PA966,Ciruas,Zona Perkantoran,"0,039","0,0002407740664","0,950","54,78","0,01204593813"
+PA967,Ciruas,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA968,Ciruas,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA969,Ciruas,Zona Pertanian,"63,861","0,3903848226","0,560","54,78","6,380404965"
+PA970,Ciruas,Zona Peruntukan Lainnya,"0,000",0,"0,600","54,78",0
+PA971,Ciruas,Zona Ruang Terbuka Hijau,"1,718","0,01050220877","0,600","54,78","0,09846949345"
+PA972,Ciruas,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA973,Ciruas,Zona Sarana Pelayanan Umum,"0,205","0,001256113334","0,950","54,78","0,04522851483"
+PA974,Ciruas,Zona Perumahan,"13,951","0,08528490952","0,950","54,78","4,182659338"
+PA975,Ciruas,Zona Badan Jalan,"1,165","0,007122939481","0,700","54,78","0,2994059387"
+PA976,Cigelam,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA977,Cigelam,Zona Badan Air,"0,000",0,"0,500","54,78",0
+PA978,Cigelam,Zona Kawasan Peruntukan Industri,"0,000",0,"0,800","54,78",0
+PA979,Cigelam,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA980,Cigelam,Zona Perdagangan dan Jasa,"0,000",0,"0,950","54,78",0
+PA981,Cigelam,Zona Perkantoran,"0,000",0,"0,950","54,78",0
+PA982,Cigelam,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA983,Cigelam,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA984,Cigelam,Zona Pertanian,"445,100","1,842711646","0,560","54,78","42,62743622"
+PA985,Cigelam,Zona Peruntukan Lainnya,"0,730","0,00302126748","0,600","54,78","0,07554267181"
+PA986,Cigelam,Zona Ruang Terbuka Hijau,"13,401","0,0554813037","0,600","54,78","1,165301962"
+PA987,Cigelam,Zona Ruang Terbuka Non Hijau,"0,000",0,"0,700","54,78",0
+PA988,Cigelam,Zona Sarana Pelayanan Umum,"1,071","0,004432852928","0,950","54,78","0,207992485"
+PA989,Cigelam,Zona Perumahan,"27,334","0,1131628551","0,950","54,78","10,49596663"
+PA990,Cigelam,Zona Badan Jalan,"16,584","0,06865919414","0,700","54,78","4,602094244"
+PA991,Kadikaran,Zona Pengelolaan Persampahan,"0,000",0,"0,500","54,78",0
+PA992,Kadikaran,Zona Badan Air,"0,265","0,0008168549976","0,500","54,78","0,007909609393"
+PA993,Kadikaran,Zona Kawasan Peruntukan Industri,"0,145","0,0004464398104","0,800","54,78","0,03583366025"
+PA994,Kadikaran,Zona Pembangkitan Tenaga Listrik,"0,000",0,"0,800","54,78",0
+PA995,Kadikaran,Zona Perdagangan dan Jasa,"0,496","0,001528379484","0,950","54,78","0,1284734226"
+PA996,Kadikaran,Zona Perkantoran,"0,000",0,"0,950","54,78",0
+PA997,Kadikaran,Zona Perkebunan Rakyat,"0,000",0,"0,800","54,78",0
+PA998,Kadikaran,Zona Pertahanan dan Keamanan,"0,000",0,"0,700","54,78",0
+PA999,Kadikaran,Zona Pertanian,"122,225","0,3766017428","0,560","54,78","11,93457411"
